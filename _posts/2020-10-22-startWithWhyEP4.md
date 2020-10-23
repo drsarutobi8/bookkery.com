@@ -8,6 +8,14 @@ Start With Why แต่งโดย Simon Sinek
 
 สนใจซื้อหนังสือ <a href="https://amzn.to/3m5VYEQ">Start With Why</a>
 
+Special Thanks for Awesome Resources
+- Presentation template by SlidesCarnival
+- Icon designed by Freepik from Flaticon
+- Pictures from Insider
+- Pictures from gallery.bustalk.info
+- Pictures for Southwest Airlines by Stephen M. Keller
+- Pictures from Pexels by Andrea Piacquadio, fauxels, Pixabay, ThisIsEngineering, Thomas Svensson
+
 <audio src="/player/web/audio/startWithWhyEP4.mp3" controls preload></audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rB_Mm7Oov1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>

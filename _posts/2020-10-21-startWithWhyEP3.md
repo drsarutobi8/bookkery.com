@@ -8,6 +8,12 @@ Start With Why แต่งโดย Simon Sinek
 
 สนใจซื้อหนังสือ <a href="https://amzn.to/3m5VYEQ">Start With Why</a>
 
+Special Thanks for Awesome Resources
+- Presentation template by SlidesCarnival
+- Icon designed by Freepik from Flaticon
+- The Sneetches by Dr. Seuss
+- Pictures from Pexels by Andrea Piacquadio, Cleyder Duque, Gustavo Fring, Jopwell, Julia M Cameron, Julian Paolo Dayag, Polina Tankilevitch, Oleg Magni
+
 <audio src="/player/web/audio/startWithWhyEP3.mp3" controls preload></audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r8mgEPebwss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
