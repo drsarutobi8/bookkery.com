@@ -9,7 +9,7 @@ Start With Why แต่งโดย Simon Sinek
 
 <audio src="/player/web/audio/startWithWhyEP1.mp3" controls preload></audio>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iEePxDS2VKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iEePxDS2VKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
