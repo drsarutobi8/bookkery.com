@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Start With Why EP3 This Is Not Opinion, This Is Biology - แต่งโดย Simon Sinek
+title: Start With Why EP3 This Is Not Opinion, This Is Biology
 ---
-
+Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 4 - This Is Not Opinion, This Is Biology
 มาเรียนรู้ความลับภายใต้ The Golden Circle ว่าทำงานสอดคล้องกับการทำงานของสมองอย่างไร ซึ่งส่งผลการสื่อสารหากเราสื่อสารได้ถูกวิธี จะช่วยให้ลูกค้าตัดสินใจซื้อสินค้าเราได้อย่างมั่นใจมากยิ่งขึ้น และไม่นำสินค้าเราไปเปรียบเทียบกับสินค้าคู่แข่ง
+
+<audio src="/player/web/audio/startWithWhyEP3.mp3" controls preload></audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r8mgEPebwss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
