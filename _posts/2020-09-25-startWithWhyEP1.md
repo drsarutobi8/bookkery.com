@@ -6,12 +6,6 @@ Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 1 The World That Doesn't Start With Why      
 ในโลกที่ไม่ได้เริ่มด้วย Why ทุกคนพึ่งพาเทคนิคการสร้างแรงจูงใจหรือการหลอกล่อเพื่อให้คนทำตาม ถึงแม้จะใช้ได้ผลจริง ทำให้เกิดยอดขายจริง แต่ก็ผลเสียทั้งกับผู้ตาม/ลูกค้า และผู้นำ/ผู้ขายในระยะยาว
 
-สนใจซื้อหนังสือ <a href="https://amzn.to/3m5VYEQ">Start With Why</a>
-
-Special Thanks for Awesome Resources
-- Presentation template by SlidesCarnival
-- Icon designed by Freepik from Flaticon- Pictures from Pexels by Aleksandar Pasaric, Andrea Piacquadio, Artem Beliaikin, August de Richelieu, Cottonbro, Deena Creates , eric anada, LinkedIn Sales Navigator
-
 <audio src="/player/web/audio/startWithWhyEP1.mp3" controls preload></audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEePxDS2VKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
@@ -26,7 +20,7 @@ Special Thanks for Awesome Resources
 <div id="mc_embed_signup">
 <form action="https://bookkery.us2.list-manage.com/subscribe/post?u=1554382b42fb23935404d7a17&amp;id=652ef195e7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <label for="mce-EMAIL">ร่วมเป็นนักอ่านกับเรา (เพื่อสามารถดาวน์โหลดสไลด์)</label>
+    <label for="mce-EMAIL">สมัครเป็นนักอ่านเพื่อดาวน์โหลดสไลด์</label>
     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1554382b42fb23935404d7a17_652ef195e7" tabindex="-1" value=""></div>
@@ -36,3 +30,8 @@ Special Thanks for Awesome Resources
 </div>
 
 <!--End mc_embed_signup-->
+สนใจซื้อหนังสือ <a href="https://amzn.to/3m5VYEQ">Start With Why</a>
+
+Special Thanks for Awesome Resources
+- Presentation template by SlidesCarnival
+- Icon designed by Freepik from Flaticon- Pictures from Pexels by Aleksandar Pasaric, Andrea Piacquadio, Artem Beliaikin, August de Richelieu, Cottonbro, Deena Creates , eric anada, LinkedIn Sales Navigator
