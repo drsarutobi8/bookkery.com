@@ -11,7 +11,6 @@ Start With Why แต่งโดย Simon Sinek
 
 Podcast:
 <iframe src="https://tunein.com/embed/player/t158235501/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
-<audio src="/player/web/audio/startWithWhyEP4.mp3" controls preload></audio>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

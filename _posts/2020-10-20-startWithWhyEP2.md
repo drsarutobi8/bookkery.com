@@ -12,7 +12,6 @@ Start With Why แต่งโดย Simon Sinek
 
 Podcast:
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/583294/78825406" width="220" height="150" frameborder="0" scrolling="no"></iframe>
-<audio src="/player/web/audio/startWithWhyEP2.mp3" controls preload></audio>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
