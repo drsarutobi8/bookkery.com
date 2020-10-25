@@ -11,7 +11,7 @@ Start With Why แต่งโดย Simon Sinek
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BEFHz7iZ9Ck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
 Podcast:
-<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/583294/78825406" width="220" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/583294/78825406" width="560" height="315" frameborder="0" scrolling="no"></iframe>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
