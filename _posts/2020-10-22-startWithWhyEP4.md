@@ -7,13 +7,11 @@ Start With Why แต่งโดย Simon Sinek
 สายการบิน Southwest Airlines สายการบิน low cost ที่มีผลกำไรสูงที่สุดในโลก โดยมีผลกำไรตั้งเปิดในปี 1970 และไม่เคยขาดทุนเลย ไม่ว่าในช่วงวิกฤต 9/11 หรือ วิกฤตน้ำมันในช่วงปี 1970 และต้นปี 2000 Southwest ทำได้เพราะ Southwest มีต้นตำรับ การสร้างต้นตำรับทำอย่างไร มาติดตามกันครับ
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
-Youtube channel:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rB_Mm7Oov1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
-
-Podcast channels:
-<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/583294/78825406" width="220" height="150" frameborder="0" scrolling="no"></iframe>
+Podcast:
 <iframe src="https://tunein.com/embed/player/t158235501/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
+<audio src="/player/web/audio/startWithWhyEP4.mp3" controls preload></audio>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

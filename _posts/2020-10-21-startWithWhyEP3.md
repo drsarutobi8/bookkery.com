@@ -7,9 +7,13 @@ Start With Why แต่งโดย Simon Sinek
 มาเรียนรู้ความลับภายใต้ The Golden Circle ว่าทำงานสอดคล้องกับการทำงานของสมองอย่างไร ซึ่งส่งผลการสื่อสารหากเราสื่อสารได้ถูกวิธี จะช่วยให้ลูกค้าตัดสินใจซื้อสินค้าเราได้อย่างมั่นใจมากยิ่งขึ้น และไม่นำสินค้าเราไปเปรียบเทียบกับสินค้าคู่แข่ง
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
-<audio src="/player/web/audio/startWithWhyEP3.mp3" controls preload></audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r8mgEPebwss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
+
+Podcast:
+<iframe src="https://tunein.com/embed/player/t158235500/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
+<audio src="/player/web/audio/startWithWhyEP3.mp3" controls preload></audio>
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">

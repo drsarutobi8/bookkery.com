@@ -7,9 +7,12 @@ Start With Why แต่งโดย Simon Sinek
 ในโลกที่ไม่ได้เริ่มด้วย Why ทุกคนพึ่งพาเทคนิคการสร้างแรงจูงใจหรือการหลอกล่อเพื่อให้คนทำตาม ถึงแม้จะใช้ได้ผลจริง ทำให้เกิดยอดขายจริง แต่ก็ผลเสียทั้งกับผู้ตาม/ลูกค้า และผู้นำ/ผู้ขายในระยะยาว <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
 
-<audio src="/player/web/audio/startWithWhyEP1.mp3" controls preload></audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEePxDS2VKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
+
+Podcast:
+<iframe src="https://tunein.com/embed/player/t158235498/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
+<audio src="/player/web/audio/startWithWhyEP1.mp3" controls preload></audio>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

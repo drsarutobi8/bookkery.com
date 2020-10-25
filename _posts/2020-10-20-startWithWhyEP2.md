@@ -7,9 +7,12 @@ Start With Why แต่งโดย Simon Sinek
 มาเรียนรู้เทคนิค The Golden Circle วงกลม 3 ชั้น What, How, Why ซึ่งแบรนด์ชั้นนำอย่าง Apple, Harley Davidson ใช้ในการสื่อสารและสร้างแรงบันดาลใจ จนเปลี่ยนจากลูกค้ามาเป็นสาวก
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
-<audio src="/player/web/audio/startWithWhyEP2.mp3" controls preload></audio>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BEFHz7iZ9Ck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
+
+Podcast:
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/583294/78825406" width="220" height="150" frameborder="0" scrolling="no"></iframe>
+<audio src="/player/web/audio/startWithWhyEP2.mp3" controls preload></audio>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
