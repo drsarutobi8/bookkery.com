@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" 
+xmlns:media="https://search.yahoo.com/mrss/"
+xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:dcterms="https://purl.org/dc/terms/"
+xmlns:spotify="https://www.spotify.com/ns/rss"
+xmlns:psc="https://podlove.org/simple-chapters/"
+xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+version="2.0">
   <channel>
     <title>Bookkery.com</title>
     <googleplay:author>Apichat Banyatsupasil</googleplay:author>
@@ -8,9 +17,26 @@
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <author>Apichat Banyatsupasil</author>
     <itunes:author>Apichat Banyatsupasil</itunes:author>
+    <itunes:image href="https://www.bookkery.com/player/img/icon.jpg" />
     <itunes:email>drsarutobi@bookkery.com</itunes:email>
-    <itunes:category text="Business" />
-    <itunes:category text="Education" />
+    <itunes:explicit>
+		no
+	</itunes:explicit>
+	<itunes:category text="Business">
+		<itunes:category text="Entrepreneurship" />
+		<itunes:category text="Management" />
+		<itunes:category text="Marketing" />
+	</itunes:category>
+	<itunes:category text="Education">
+		<itunes:category text="How To" />
+		<itunes:category text="Self-Improvement" />
+	</itunes:category>
+    <itunes:type>
+	serial
+	</itunes:type>
+    <spotify:countryOfOrigin>
+	th
+	</spotify:countryOfOrigin>
     <image>
       <url>https://www.bookkery.com/player/img/icon.jpg</url>
       <title>Bookkery</title>
@@ -26,17 +52,17 @@
     <googleplay:image href="https://www.bookkery.com/player/img/icon.jpg" />
     <language>th_TH</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <pubDate>Fri, 23 Oct 2020 22:00:00 GMT+7</pubDate>
     <link>https://www.bookkery.com/player/web/feed.xml</link>
-    <itunes:image href="https://www.bookkery.com/player/img/icon.jpg" />
     <item>
       <author>Apichat Banyatsupasil</author>
       <itunes:author>Apichat Banyatsupasil</itunes:author>
+      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
       <title>Start With Why Episode 1 - The World That Doesn't Start With Why</title>
-      <pubDate>Fri, 23 Oct 2020 22:00:00 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2020 22:00:00 GMT+7</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3" type="audio/mpeg" length="9627045" />
       <itunes:duration>22:33</itunes:duration>
-      <guid isPermaLink="false">startwithwhy01</guid>
+      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>Start With Why Episode 1 - แต่งโดย Simon Sinek
 บทย่อ Part 1 The World That Doesn't Start With Why      
@@ -57,10 +83,11 @@ Chief Reader@bookkery
       <author>Apichat Banyatsupasil</author>
       <itunes:author>Apichat Banyatsupasil</itunes:author>
       <title>Start With Why Episode 2 - The Golden Circle</title>
-      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT</pubDate>
+      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT+7</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3" type="audio/mpeg" length="4184949" />
       <itunes:duration>11:55</itunes:duration>
-      <guid isPermaLink="false">startwithwhy02</guid>
+      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>Start With Why Episode 2 - แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 3 - The Golden Circle
@@ -81,10 +108,11 @@ Chief Reader@bookkery
       <author>Apichat Banyatsupasil</author>
       <itunes:author>Apichat Banyatsupasil</itunes:author>
       <title>Start With Why Episode 3 - This Is Not Opinion, This Is Biology</title>
-      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT</pubDate>
+      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT+7</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3" type="audio/mpeg" length="6002493" />
       <itunes:duration>11:55</itunes:duration>
-      <guid isPermaLink="false">startwithwhy03</guid>
+      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>Start With Why Episode 3 - แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 4 - This Is Not Opinion, This Is Biology
@@ -103,14 +131,15 @@ Apichat Banyatsupasil
 Chief Reader@bookkery
         </description>
     </item>
-        <item>
+    <item>
       <author>Apichat Banyatsupasil</author>
       <itunes:author>Apichat Banyatsupasil</itunes:author>
       <title>Start With Why Episode 4 - Clarity, Discipline and Consistency</title>
-      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT</pubDate>
+      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT+7</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3" type="audio/mpeg" length="6023589" />
       <itunes:duration>14:29</itunes:duration>
-      <guid isPermaLink="false">startwithwhy04</guid>
+      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>Start With Why Episode 4 - แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 5 - Clarity, Discipline and Consistency
