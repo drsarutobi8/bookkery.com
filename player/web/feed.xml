@@ -15,7 +15,6 @@ version="2.0">
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Bangkok, Thailand</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Apichat Banyatsupasil</author>
     <itunes:author>Apichat Banyatsupasil</itunes:author>
     <itunes:image href="https://www.bookkery.com/player/img/icon.jpg" />
     <itunes:email>drsarutobi@bookkery.com</itunes:email>
@@ -52,14 +51,14 @@ version="2.0">
     <googleplay:image href="https://www.bookkery.com/player/img/icon.jpg" />
     <language>th_TH</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Fri, 23 Oct 2020 22:00:00 GMT+7</pubDate>
+    <pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
     <link>https://www.bookkery.com/player/web/feed.xml</link>
     <item>
       <author>Apichat Banyatsupasil</author>
       <itunes:author>Apichat Banyatsupasil</itunes:author>
       <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
       <title>Start With Why Episode 1 - The World That Doesn't Start With Why</title>
-      <pubDate>Fri, 23 Oct 2020 22:00:00 GMT+7</pubDate>
+      <pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3" type="audio/mpeg" length="9627045" />
       <itunes:duration>22:33</itunes:duration>
       <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3</guid>
@@ -84,7 +83,7 @@ Chief Reader@bookkery
       <itunes:author>Apichat Banyatsupasil</itunes:author>
       <title>Start With Why Episode 2 - The Golden Circle</title>
       <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT+7</pubDate>
+      <pubDate>Fri, 24 Oct 2020 00:10:00 +0700</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3" type="audio/mpeg" length="4184949" />
       <itunes:duration>11:55</itunes:duration>
       <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3</guid>
@@ -109,7 +108,7 @@ Chief Reader@bookkery
       <itunes:author>Apichat Banyatsupasil</itunes:author>
       <title>Start With Why Episode 3 - This Is Not Opinion, This Is Biology</title>
       <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT+7</pubDate>
+      <pubDate>Fri, 24 Oct 2020 00:10:00 +0700</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3" type="audio/mpeg" length="6002493" />
       <itunes:duration>11:55</itunes:duration>
       <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3</guid>
@@ -136,7 +135,7 @@ Chief Reader@bookkery
       <itunes:author>Apichat Banyatsupasil</itunes:author>
       <title>Start With Why Episode 4 - Clarity, Discipline and Consistency</title>
       <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <pubDate>Fri, 24 Oct 2020 00:10:00 GMT+7</pubDate>
+      <pubDate>Fri, 24 Oct 2020 00:10:00 +0700</pubDate>
       <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3" type="audio/mpeg" length="6023589" />
       <itunes:duration>14:29</itunes:duration>
       <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3</guid>
