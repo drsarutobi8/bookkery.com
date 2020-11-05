@@ -17,7 +17,7 @@ version="2.0">
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:author>Apichat Banyatsupasil</itunes:author>
     <itunes:image href="https://www.bookkery.com/player/img/icon.jpg" />
-    <itunes:email>drsarutobi@bookkery.com</itunes:email>
+    <itunes:email>chief.reader@bookkery.com</itunes:email>
     <itunes:explicit>
 		no
 	</itunes:explicit>
@@ -43,7 +43,7 @@ version="2.0">
     </image>
     <itunes:owner>
       <itunes:name>Apichat Banyatsupasil</itunes:name>
-      <itunes:email>drsarutobi@bookkery.com</itunes:email>
+      <itunes:email>chief.reader@bookkery.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>business books</itunes:keywords>
     <copyright>Bookkery.com 2020</copyright>
