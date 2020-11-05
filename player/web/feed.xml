@@ -53,6 +53,7 @@ version="2.0">
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
     <link>https://www.bookkery.com/player/web/feed.xml</link>
+    <atom:link href="https://www.bookkery.com/player/web/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <author>chief.reader@bookkery.com</author>
       <itunes:author>Apichat Banyatsupasil</itunes:author>
