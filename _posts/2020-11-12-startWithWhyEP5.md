@@ -7,7 +7,7 @@ Start With Why แต่งโดย Simon Sinek
 สายการบิน Continental Airlines สายการบินที่มีประวัติการขาดทุนต่อเนื่องสิบกว่าปี ล่าสุดในปี 1994 ขาดทุนถึง 610M และอยู่ในอันดับท้ายสุดของทุก ranking แต่คุณ Gordon Bethune ใช้เวลาแค่เพียงปีเดียวสามารถพลิกให้กลับมามีผลกำไรได้ถึง 220M และเป็นบริษัทที่น่าทำงานมากที่สุดในประเทศ เค้าทำได้อย่างไรมาติดตามกันครับ
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
-<iframe width="560" height="315" src="https://youtu.be/fSYxcWB3u3c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fSYxcWB3u3c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
 Podcast:
 <iframe src="https://tunein.com/embed/player/t158235501/" style="width:560px; height:315px;" scrolling="no" frameborder="no"></iframe>
