@@ -32,6 +32,7 @@ Podcast:
 </div>
 
 สนใจซื้อหนังสือ <a href="https://amzn.to/3m5VYEQ">Start With Why</a>
+
 Facebook <a href="https://www.facebook.com/bookkery1">Bookkery1</a>
 
 Special Thanks for Awesome Resources
