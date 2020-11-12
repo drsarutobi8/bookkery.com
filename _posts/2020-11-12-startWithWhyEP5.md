@@ -4,7 +4,7 @@ title: Start With Why EP5 - The Emergence of Trust
 ---
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 3 Leaders Need A Following, Chapter 6 - The Emergence of Trust
-สายการบิน Continental Airlines สายการบินที่มีประวัติการขาดทุนต่อเนื่องสิบกว่าปี ล่าสุดในปี 1994 ขาดทุนถึง 610M และอยู่ในอันดับท้ายสุดของทุก ranking แต่คุณ Gordon Bethune ใช้เวลาแค่เพียงปีเดียวสามารถพลิก ให้กลับมามีผลกำไรได้ถึง 220M และเป็นบริษัทที่น่าทำงานมากที่สุดในประเทศ เค้าทำได้อย่างไรมาติดตามกันครับ
+สายการบิน Continental Airlines สายการบินที่มีประวัติการขาดทุนต่อเนื่องสิบกว่าปี ล่าสุดในปี 1994 ขาดทุนถึง 610M และอยู่ในอันดับท้ายสุดของทุก ranking แต่คุณ Gordon Bethune ใช้เวลาแค่เพียงปีเดียวสามารถพลิกให้กลับมามีผลกำไรได้ถึง 220M และเป็นบริษัทที่น่าทำงานมากที่สุดในประเทศ เค้าทำได้อย่างไรมาติดตามกันครับ
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rB_Mm7Oov1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
