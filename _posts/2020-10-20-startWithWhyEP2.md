@@ -34,6 +34,7 @@ Podcast:
 
 <!--End mc_embed_signup-->
 สนใจซื้อหนังสือ <a href="https://amzn.to/3m5VYEQ">Start With Why</a>
+Facebook https://www.facebook.com/bookkery1
 
 Special Thanks for Awesome Resources
 - Presentation template by SlidesCarnival
