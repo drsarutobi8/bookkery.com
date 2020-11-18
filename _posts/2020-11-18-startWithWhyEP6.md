@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Start With Why EP6 - The Emergence of Trust
+title: Start With Why EP6 - How a Tipping Point Tips
 ---
 Start With Why แต่งโดย Simon Sinek
-บทย่อ Part 3 Leaders Need A Following, Chapter 6 - How a Tipping Point Tips
+บทย่อ Part 3 Leaders Need A Following, Chapter 7 - How a Tipping Point Tips
 Tivo เป็นเครื่องอัดวีดีโอดิจิตัล เริ่มออกเปิดตัวเมื่อปี1997 โดยมันสามารถอัดรายการในทีวีพร้อมตัดโฆษณาออกให้คุณได้อัตโนมัติ พูดง่ายๆก็คือ มันสามารถเปลี่ยน ละครในฟรีทีวีที่บ้านเรา ให้กลายเป็นซีรียส์ใน Netflix หรือ HBO ได้ โดยเราไม่ต้องเสียค่าสมาชิกซักบาท ซึ่งหลังจากที่ Tivo ได้ออกมาสักพักแล้ว ก็ได้รับกล่าวขวัญจากชาวอเมริกันเป็นอย่างมาก จนถึงขนาดที่เค้าใช้คำว่า Tivo แทนคำกริยา ในการอัดรายการทีวีพร้อมตัดโฆษณา เลยทีเดียว แต่ถึง Tivo จะดังและปังยังไง ยอดขายของ Tivo กลับพังไม่เป็นท่า เพียงเพราะว่าพลาดไปเรื่องเดียว
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
