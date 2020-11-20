@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" 
-xmlns:media="https://search.yahoo.com/mrss/"
+<rss xmlns:media="https://search.yahoo.com/mrss/"
 xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:dcterms="https://purl.org/dc/terms/"
 xmlns:spotify="https://www.spotify.com/ns/rss"
 xmlns:psc="https://podlove.org/simple-chapters/"
-xmlns:atom="http://www.w3.org/2005/Atom" 
-xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" 
-xmlns:content="http://purl.org/rss/1.0/modules/content/" 
 version="2.0">
   <channel>
     <title>Bookkery.com</title>
-    <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>Bangkok, Thailand</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:author>Apichat Banyatsupasil</itunes:author>
     <itunes:image href="https://www.bookkery.com/player/img/icon.jpg" />
     <itunes:email>chief.reader@bookkery.com</itunes:email>
@@ -47,12 +40,10 @@ version="2.0">
     <itunes:keywords>business books</itunes:keywords>
     <copyright>Bookkery.com 2020</copyright>
     <description>Bookkery.com</description>
-    <googleplay:image href="https://www.bookkery.com/player/img/icon.jpg" />
     <language>th-th</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
     <link>https://www.bookkery.com/player/web/feed.xml</link>
-    <atom:link href="https://www.bookkery.com/player/web/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <itunes:duration>22:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
