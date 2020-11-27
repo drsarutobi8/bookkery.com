@@ -12,7 +12,7 @@ Start With Why Episode 7 - แต่งโดย Simon Sinek
 
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/heB2vMrRAq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VEQ-mMCHSVQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
 Podcast:
 <iframe src="https://tunein.com/embed/player/t158690665/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
