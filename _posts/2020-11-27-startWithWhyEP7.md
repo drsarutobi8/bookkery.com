@@ -8,14 +8,14 @@ Start With Why Episode 7 - แต่งโดย Simon Sinek
 บทที่ 9 - Know WHY, Know HOW, Then WHAT
 บทที่ 10 - Communication Is Not About Speaking, It’s About Listening
 
-ถ้าผมให้คุณคิดถึงรถมอเตอร์ไซค์ที่ในฝันซักคัน ผมเชื่อว่า Harley Davidson ก็อยู่ในหนึ่งในรถมอเตอร์ไซค์ที่คุณนึกถึงด้วยแน่นอน แบรนด์รถมอเตอร์ไซค์ที่ประสบความสำเร็จมากในประวัติศาสตร์  โดยเฉพาะในเรื่องของความจงรักภักดีที่ลูกค้ามอบให้ คนที่รักบางคนเค้ารักมากถึงขนาดที่เอาแบรนด์นี้ไปสักอยู่บนร่างกาย ทั้งหัวไหล่, ข้อมือ, กลางหลัง แล้วจะดีมั้ยครับ ถ้ามีคนรักแบรนด์สินค้าของเราถึงขนาดนี้  อะไรที่ทำให้ Harley Davidson ทำให้คนเหล่านี้รัก
-
+Harley Davidson หนึ่งในรถมอเตอร์ไซค์ในฝันของคนหลายคน แบรนด์รถมอเตอร์ไซค์ที่ประสบความสำเร็จมากในประวัติศาสตร์  โดยเฉพาะในเรื่องของความจงรักภักดีที่ลูกค้ามอบให้ คนที่รักบางคนเค้ารักมากถึงขนาดที่เอาแบรนด์นี้ไปสักอยู่บนร่างกาย ทั้งหัวไหล่, ข้อมือ, กลางหลัง แล้วจะดีมั้ยครับ ถ้ามีคนรักแบรนด์สินค้าของเราถึงขนาดนี้  อะไรที่ทำให้ Harley Davidson ทำให้คนเหล่านี้รัก ต้องไม่พลาดติดตามนะครับ
+ 
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VEQ-mMCHSVQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
+<iframe width="683" height="383" src="https://www.youtube.com/embed/em_QOnjDQFU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
 Podcast:
-<iframe src="https://tunein.com/embed/player/t158690665/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
+<iframe src="https://tunein.com/embed/player/t159052633/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
