@@ -1,300 +1,365 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:media="https://search.yahoo.com/mrss/"
-xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:dcterms="https://purl.org/dc/terms/"
-xmlns:spotify="https://www.spotify.com/ns/rss"
-xmlns:psc="https://podlove.org/simple-chapters/"
-version="2.0">
-  <channel>
-    <title>Bookkery.com</title>
-    <itunes:author>Apichat Banyatsupasil</itunes:author>
-    <itunes:image href="https://www.bookkery.com/player/img/icon.jpg" />
-    <itunes:email>chief.reader@bookkery.com</itunes:email>
-    <itunes:explicit>
-		no
-	</itunes:explicit>
-	<itunes:category text="Business">
-		<itunes:category text="Entrepreneurship" />
-		<itunes:category text="Management" />
-		<itunes:category text="Marketing" />
-	</itunes:category>
-	<itunes:category text="Education">
-		<itunes:category text="How To" />
-		<itunes:category text="Self-Improvement" />
-	</itunes:category>
-    <itunes:type>
-	serial
-	</itunes:type>
-    <spotify:countryOfOrigin>
-	th
-	</spotify:countryOfOrigin>
-    <image>
-      <url>https://www.bookkery.com/player/img/icon.jpg</url>
-      <title>Bookkery.com</title>
-      <link>https://www.bookkery.com</link>
-    </image>
-    <itunes:owner>
-      <itunes:name>Apichat Banyatsupasil</itunes:name>
-      <itunes:email>chief.reader@bookkery.com</itunes:email>
-    </itunes:owner>
-    <itunes:keywords>business books</itunes:keywords>
-    <copyright>Bookkery.com 2020</copyright>
-    <description>Bookkery.com</description>
-    <language>th-th</language>
-    <itunes:explicit>no</itunes:explicit>
-    <pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
-    <link>https://www.bookkery.com/player/web/feed.xml</link>
-    <item>
-      <itunes:duration>22:33</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <itunes:keywords>Start With Why, Business, Enterpreneur, Leader</itunes:keywords>
-      <title>Start With Why Episode 1 - The World That Doesn't Start With Why</title>
-      <pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
-      <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3" type="audio/mpeg" length="9627045" />
-      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3</guid>
-      <description>Start With Why Episode 1 - แต่งโดย Simon Sinek
-บทย่อ Part 1 The World That Doesn't Start With Why      
-ในโลกที่ไม่ได้เริ่มด้วย Why ทุกคนพึ่งพาเทคนิคการสร้างแรงจูงใจหรือการหลอกล่อเพื่อให้คนทำตาม ถึงแม้จะใช้ได้ผลจริง ทำให้เกิดยอดขายจริง แต่ก็ผลเสียทั้งกับผู้ตาม/ลูกค้า และผู้นำ/ผู้ขายในระยะยาว
-*******************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
-*******************************************
-ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
-http://eepurl.com/hgWraL
-*******************************************
-Facebook https://www.facebook.com/bookkery1
-*******************************************
-Blog: https://www.bookkery.com
-*******************************************
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link
+			href="https://www.bookkery.com/player/web/feed.xml" rel="self"
+			type="application/rss+xml" />
+		<title>Bookkery.com</title>
+		<link>https://www.bookkery.com</link>
+		<pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
+		<lastBuildDate>Tue, 01 Dec 2020 21:38:34 +0000</lastBuildDate>
+		<ttl>60</ttl>
+		<language>th</language>
+		<copyright>All rights reserved</copyright>
+		<webMaster>chief.reader@bookkery.com (Apichat Banyatsupasil)</webMaster>
+		<description>Podcast by Bookkery.com</description>
+		<itunes:subtitle>Podcast by Bookkery.com</itunes:subtitle>
+		<itunes:owner>
+			<itunes:name>Bookery.com</itunes:name>
+			<itunes:email>chief.reader@bookkery.com</itunes:email>
+		</itunes:owner>
+		<itunes:author>Apichat Banyatsupasil</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image
+			href="https://www.bookkery.com/player/img/icon.jpg" />
+		<image>
+			<url>https://www.bookkery.com/player/img/icon.jpg</url>
+			<title>Bookkery.com</title>
+			<link>https://www.bookkery.com</link>
+		</image>
+		<itunes:category text="Business">
+			<itunes:category text="Entrepreneurship" />
+			<itunes:category text="Management" />
+			<itunes:category text="Marketing" />
+		</itunes:category>
+		<itunes:category text="Education">
+			<itunes:category text="How To" />
+			<itunes:category text="Self-Improvement" />
+		</itunes:category>
+		<item>
+			<itunes:duration>22:33</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image
+				href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+			<itunes:keywords>Start With Why, Business, Enterpreneur, Leader
+			</itunes:keywords>
+			<title>Start With Why Episode 1 - The World That Doesn't Start With Why</title>
+			<pubDate>Fri, 23 Oct 2020 22:00:00 +0700</pubDate>
+			<enclosure
+				url="https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3"
+				type="audio/mpeg" length="9627045" />
+			<guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP1.mp3</guid>
+			<description>Start With Why Episode 1 - แต่งโดย Simon Sinek
+				บทย่อ Part 1 The World That Doesn't Start With Why
+				ในโลกที่ไม่ได้เริ่มด้วย Why
+				ทุกคนพึ่งพาเทคนิคการสร้างแรงจูงใจหรือการหลอกล่อเพื่อให้คนทำตาม
+				ถึงแม้จะใช้ได้ผลจริง ทำให้เกิดยอดขายจริง
+				แต่ก็ผลเสียทั้งกับผู้ตาม/ลูกค้า และผู้นำ/ผู้ขายในระยะยาว
+				*******************************************
+				สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+				*******************************************
+				ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
+				http://eepurl.com/hgWraL
+				*******************************************
+				Facebook https://www.facebook.com/bookkery1
+				*******************************************
+				Blog: https://www.bookkery.com
+				*******************************************
 
-Special Thanks for Awesome Resources 
-- Presentation template by SlidesCarnival
-- Icon designed by Freepik from Flaticon
-- Pictures from Pexels by Aleksandar Pasaric, Andrea Piacquadio, Artem Beliaikin, August de Richelieu, Cottonbro, Deena Creates , eric anada, LinkedIn Sales Navigator
+				Special Thanks for Awesome Resources
+				- Presentation template by SlidesCarnival
+				- Icon designed by Freepik from Flaticon
+				- Pictures from Pexels by Aleksandar Pasaric, Andrea Piacquadio,
+				Artem Beliaikin, August de Richelieu, Cottonbro, Deena Creates ,
+				eric anada, LinkedIn Sales Navigator
 
-Apichat Banyatsupasil
-Chief Reader
-        </description>
-    </item>
-    <item>
-      <itunes:duration>11:55</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <itunes:keywords>Start With Why, Business, Enterpreneur, Leader</itunes:keywords>
-      <title>Start With Why Episode 2 - The Golden Circle</title>
-      <pubDate>Sat, 24 Oct 2020 00:10:00 +0700</pubDate>
-      <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3" type="audio/mpeg" length="4184949" />
-      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3</guid>
-      <description>Start With Why Episode 2 - แต่งโดย Simon Sinek
-บทย่อ Part 2 An Alternative Perspective, Chapter 3 - The Golden Circle
-มาเรียนรู้เทคนิค The Golden Circle วงกลม 3 ชั้น What, How, Why ซึ่งแบรนด์ชั้นนำอย่าง Apple, Harley Davidson ใช้ในการสื่อสารและสร้างแรงบันดาลใจ จนเปลี่ยนจากลูกค้ามาเป็นสาวก
-*******************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
-*******************************************
-ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
-http://eepurl.com/hgWraL
-*******************************************
-Facebook https://www.facebook.com/bookkery1
-*******************************************
-Blog: https://www.bookkery.com
-*******************************************
+				Apichat Banyatsupasil
+				Chief Reader
+			</description>
+		</item>
+		<item>
+			<itunes:duration>11:55</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image
+				href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+			<itunes:keywords>Start With Why, Business, Enterpreneur, Leader
+			</itunes:keywords>
+			<title>Start With Why Episode 2 - The Golden Circle</title>
+			<pubDate>Sat, 24 Oct 2020 00:10:00 +0700</pubDate>
+			<enclosure
+				url="https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3"
+				type="audio/mpeg" length="4184949" />
+			<guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP2.mp3</guid>
+			<description>Start With Why Episode 2 - แต่งโดย Simon Sinek
+				บทย่อ Part 2 An Alternative Perspective, Chapter 3 - The Golden Circle
+				มาเรียนรู้เทคนิค The Golden Circle วงกลม 3 ชั้น What, How, Why
+				ซึ่งแบรนด์ชั้นนำอย่าง Apple, Harley Davidson
+				ใช้ในการสื่อสารและสร้างแรงบันดาลใจ จนเปลี่ยนจากลูกค้ามาเป็นสาวก
+				*******************************************
+				สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+				*******************************************
+				ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
+				http://eepurl.com/hgWraL
+				*******************************************
+				Facebook https://www.facebook.com/bookkery1
+				*******************************************
+				Blog: https://www.bookkery.com
+				*******************************************
 
-Special Thanks for Awesome Resources 
-- Presentation template by SlidesCarnival
-- Icon designed by Freepik from Flaticon
-- Pictures from Pexels by Andrea Piacquadio, Cleyder Duque, Gustavo Fring, Oleg Magni
+				Special Thanks for Awesome Resources
+				- Presentation template by SlidesCarnival
+				- Icon designed by Freepik from Flaticon
+				- Pictures from Pexels by Andrea Piacquadio, Cleyder Duque, Gustavo
+				Fring, Oleg Magni
 
-Apichat Banyatsupasil
-Chief Reader
-        </description>
-    </item>
-    <item>
-      <itunes:duration>11:55</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <itunes:keywords>Start With Why, Business, Enterpreneur, Leader</itunes:keywords>
-      <title>Start With Why Episode 3 - This Is Not Opinion, This Is Biology</title>
-      <pubDate>Sat, 24 Oct 2020 00:10:00 +0700</pubDate>
-      <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3" type="audio/mpeg" length="6002493" />
-      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3</guid>
-      <description>Start With Why Episode 3 - แต่งโดย Simon Sinek
-บทย่อ Part 2 An Alternative Perspective, Chapter 4 - This Is Not Opinion, This Is Biology
-มาเรียนรู้ความลับภายใต้ The Golden Circle ว่าทำงานสอดคล้องกับการทำงานของสมองอย่างไร ซึ่งส่งผลการสื่อสารหากเราสื่อสารได้ถูกวิธี จะช่วยให้ลูกค้าตัดสินใจซื้อสินค้าเราได้อย่างมั่นใจมากยิ่งขึ้น และไม่นำสินค้าเราไปเปรียบเทียบกับสินค้าคู่แข่ง
-*******************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
-*******************************************
-ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
-http://eepurl.com/hgWraL
-*******************************************
-Facebook https://www.facebook.com/bookkery1
-*******************************************
-Blog: https://www.bookkery.com
-*******************************************
+				Apichat Banyatsupasil
+				Chief Reader
+			</description>
+		</item>
+		<item>
+			<itunes:duration>11:55</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image
+				href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+			<itunes:keywords>Start With Why, Business, Enterpreneur, Leader
+			</itunes:keywords>
+			<title>Start With Why Episode 3 - This Is Not Opinion, This Is
+				Biology</title>
+			<pubDate>Sat, 24 Oct 2020 00:10:00 +0700</pubDate>
+			<enclosure
+				url="https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3"
+				type="audio/mpeg" length="6002493" />
+			<guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP3.mp3</guid>
+			<description>Start With Why Episode 3 - แต่งโดย Simon Sinek
+				บทย่อ Part 2 An Alternative Perspective, Chapter 4 - This Is Not Opinion,
+				This Is Biology
+				มาเรียนรู้ความลับภายใต้ The Golden Circle ว่าทำงานสอดคล้องกับการทำงานของสมองอย่างไร
+				ซึ่งส่งผลการสื่อสารหากเราสื่อสารได้ถูกวิธี
+				จะช่วยให้ลูกค้าตัดสินใจซื้อสินค้าเราได้อย่างมั่นใจมากยิ่งขึ้น
+				และไม่นำสินค้าเราไปเปรียบเทียบกับสินค้าคู่แข่ง
+				*******************************************
+				สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+				*******************************************
+				ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
+				http://eepurl.com/hgWraL
+				*******************************************
+				Facebook https://www.facebook.com/bookkery1
+				*******************************************
+				Blog: https://www.bookkery.com
+				*******************************************
 
-Special Thanks for Awesome Resources 
-- Presentation template by SlidesCarnival
-- Icon designed by Freepik from Flaticon
-- The Sneetches by Dr. Seuss
-- Pictures from Pexels by Andrea Piacquadio, Cleyder Duque
-Gustavo Fring, Jopwell, Julia M Cameron, Julian Paolo Dayag, Polina Tankilevitch, Oleg Magni
+				Special Thanks for Awesome Resources
+				- Presentation template by SlidesCarnival
+				- Icon designed by Freepik from Flaticon
+				- The Sneetches by Dr. Seuss
+				- Pictures from Pexels by Andrea Piacquadio, Cleyder Duque
+				Gustavo Fring, Jopwell, Julia M Cameron, Julian Paolo Dayag, Polina
+				Tankilevitch, Oleg Magni
 
-Apichat Banyatsupasil
-Chief Reader
-        </description>
-    </item>
-    <item>
-      <itunes:duration>14:29</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <itunes:keywords>Start With Why, Business, Enterpreneur, Leader</itunes:keywords>
-      <title>Start With Why Episode 4 - Clarity, Discipline and Consistency</title>
-      <pubDate>Sat, 24 Oct 2020 00:10:00 +0700</pubDate>
-      <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3" type="audio/mpeg" length="6023589" />
-      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3</guid>
-      <description>Start With Why Episode 4 - แต่งโดย Simon Sinek
-บทย่อ Part 2 An Alternative Perspective, Chapter 5 - Clarity, Discipline and Consistency
-สายการบิน Southwest Airlines สายการบิน low cost ที่มีผลกำไรสูงที่สุดในโลก โดยมีผลกำไรตั้งเปิดในปี 1970 และไม่เคยขาดทุนเลย ไม่ว่าในช่วงวิกฤต 9/11 หรือ วิกฤตน้ำมันในช่วงปี 1970 และต้นปี 2000 Southwest ทำได้เพราะ Southwest มีต้นตำรับ การสร้างต้นตำรับทำอย่างไร มาติดตามกันครับ
-*******************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
-*******************************************
-ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
-http://eepurl.com/hgWraL
-*******************************************
-Facebook https://www.facebook.com/bookkery1
-*******************************************
-Blog: https://www.bookkery.com
-*******************************************
+				Apichat Banyatsupasil
+				Chief Reader
+			</description>
+		</item>
+		<item>
+			<itunes:duration>14:29</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image
+				href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+			<itunes:keywords>Start With Why, Business, Enterpreneur, Leader
+			</itunes:keywords>
+			<title>Start With Why Episode 4 - Clarity, Discipline and Consistency</title>
+			<pubDate>Sat, 24 Oct 2020 00:10:00 +0700</pubDate>
+			<enclosure
+				url="https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3"
+				type="audio/mpeg" length="6023589" />
+			<guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP4.mp3</guid>
+			<description>Start With Why Episode 4 - แต่งโดย Simon Sinek
+				บทย่อ Part 2 An Alternative Perspective, Chapter 5 - Clarity, Discipline
+				and Consistency
+				สายการบิน Southwest Airlines สายการบิน low cost ที่มีผลกำไรสูงที่สุดในโลก
+				โดยมีผลกำไรตั้งเปิดในปี 1970 และไม่เคยขาดทุนเลย ไม่ว่าในช่วงวิกฤต
+				9/11 หรือ วิกฤตน้ำมันในช่วงปี 1970 และต้นปี 2000 Southwest
+				ทำได้เพราะ Southwest มีต้นตำรับ การสร้างต้นตำรับทำอย่างไร
+				มาติดตามกันครับ
+				*******************************************
+				สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+				*******************************************
+				ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
+				http://eepurl.com/hgWraL
+				*******************************************
+				Facebook https://www.facebook.com/bookkery1
+				*******************************************
+				Blog: https://www.bookkery.com
+				*******************************************
 
-Special Thanks for Awesome Resources 
-- Presentation template by SlidesCarnival
-- Icon designed by Freepik from Flaticon
-- Pictures from Insider
-- Pictures from gallery.bustalk.info 
-- Pictures for Southwest Airlines by Stephen M. Keller
-- Pictures from Pexels by Andrea Piacquadio, fauxels, Pixabay, ThisIsEngineering, Thomas Svensson
+				Special Thanks for Awesome Resources
+				- Presentation template by SlidesCarnival
+				- Icon designed by Freepik from Flaticon
+				- Pictures from Insider
+				- Pictures from gallery.bustalk.info
+				- Pictures for Southwest Airlines by Stephen M. Keller
+				- Pictures from Pexels by Andrea Piacquadio, fauxels, Pixabay,
+				ThisIsEngineering, Thomas Svensson
 
-Apichat Banyatsupasil
-Chief Reader
-        </description>
-    </item>
-    <item>
-      <itunes:duration>22:10</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <itunes:keywords>Start With Why, Business, Enterpreneur, Leader</itunes:keywords>
-      <title>Start With Why Episode 5 - The Emergence of Trust</title>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <pubDate>Thu, 12 Nov 2020 06:11:46 +0700</pubDate>
-      <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP5.mp3" type="audio/mpeg" length="11006733" />
-      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP5.mp3</guid>
-      <description>Start With Why Episode 5 - แต่งโดย Simon Sinek
-บทย่อ Part 3 Leaders Need A Following, Chapter 6 - The Emergence of Trust
-สายการบิน Continental Airlines สายการบินที่มีประวัติการขาดทุนต่อเนื่องสิบกว่าปี ล่าสุดในปี 1994 ขาดทุนถึง 610M และอยู่ในอันดับท้ายสุดของทุก ranking แต่คุณ Gordon Bethune ใช้เวลาแค่เพียงปีเดียวสามารถพลิก ให้กลับมามีผลกำไรได้ถึง 220M และเป็นบริษัทที่น่าทำงานมากที่สุดในประเทศ เค้าทำได้อย่างไรมาติดตามกันครับ
-*******************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
-*******************************************
-ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
-http://eepurl.com/hgWraL
-*******************************************
-Facebook https://www.facebook.com/bookkery1
-*******************************************
-Blog: https://www.bookkery.com
-*******************************************
+				Apichat Banyatsupasil
+				Chief Reader
+			</description>
+		</item>
+		<item>
+			<itunes:duration>22:10</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image
+				href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+			<itunes:keywords>Start With Why, Business, Enterpreneur, Leader
+			</itunes:keywords>
+			<title>Start With Why Episode 5 - The Emergence of Trust</title>
+			<pubDate>Thu, 12 Nov 2020 06:11:46 +0700</pubDate>
+			<enclosure
+				url="https://www.bookkery.com/player/web/audio/startWithWhyEP5.mp3"
+				type="audio/mpeg" length="11006733" />
+			<guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP5.mp3</guid>
+			<description>Start With Why Episode 5 - แต่งโดย Simon Sinek
+				บทย่อ Part 3 Leaders Need A Following, Chapter 6 - The Emergence of Trust
+				สายการบิน Continental Airlines
+				สายการบินที่มีประวัติการขาดทุนต่อเนื่องสิบกว่าปี ล่าสุดในปี 1994
+				ขาดทุนถึง 610M และอยู่ในอันดับท้ายสุดของทุก ranking แต่คุณ Gordon
+				Bethune ใช้เวลาแค่เพียงปีเดียวสามารถพลิก ให้กลับมามีผลกำไรได้ถึง
+				220M และเป็นบริษัทที่น่าทำงานมากที่สุดในประเทศ
+				เค้าทำได้อย่างไรมาติดตามกันครับ
+				*******************************************
+				สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+				*******************************************
+				ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
+				http://eepurl.com/hgWraL
+				*******************************************
+				Facebook https://www.facebook.com/bookkery1
+				*******************************************
+				Blog: https://www.bookkery.com
+				*******************************************
 
-Special Thanks for Awesome Resources 
-- Presentation template by SlidesCarnival
-- Icon "designed by Freepik from Flaticon"
-- From Worst To First, Gordon Bethune
-- Pictures from Apple
-- Pictures from Continental Airlines
-- Pictures from Frank Hurley
-- Pictures from Nike
-- Pictures from Southwest Airlines
-- Finetooth, Like tears in rain, U.S CIA
-- Pictures from Pexels by Andrea Piacquadio, Andreas, Asya Cusima, Icon0.com, Nappy, Patrick Case, Philippe HECKEL, Pixabay, Sora Shimaza, Te lensFix, Yasin Gündogduki
+				Special Thanks for Awesome Resources
+				- Presentation template by SlidesCarnival
+				- Icon "designed by Freepik from Flaticon"
+				- From Worst To First, Gordon Bethune
+				- Pictures from Apple
+				- Pictures from Continental Airlines
+				- Pictures from Frank Hurley
+				- Pictures from Nike
+				- Pictures from Southwest Airlines
+				- Finetooth, Like tears in rain, U.S CIA
+				- Pictures from Pexels by Andrea Piacquadio, Andreas, Asya Cusima,
+				Icon0.com, Nappy, Patrick Case, Philippe HECKEL, Pixabay, Sora
+				Shimaza, Te lensFix, Yasin Gündogduki
 
-Apichat Banyatsupasil
-Chief Reader
-        </description>
-    </item>
-    <item>
-      <itunes:duration>15:06</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <itunes:keywords>Start With Why, Business, Enterpreneur, Leader</itunes:keywords>
-      <title>Start With Why Episode 6 - How a Tipping Point Tips</title>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <pubDate>Wed, 18 Nov 2020 20:05:00 +0700</pubDate>
-      <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP6.mp3" type="audio/mpeg" length="7114293" />
-      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP6.mp3</guid>
-      <description>Start With Why Episode 6 - แต่งโดย Simon Sinek
-บทย่อ Part 3 Leaders Need A Following, Chapter 7 - How a Tipping Point Tips
-Tivo เป็นเครื่องอัดวีดีโอดิจิตัล เริ่มออกเปิดตัวเมื่อปี1997 โดยมันสามารถอัดรายการในทีวีพร้อมตัดโฆษณาออกให้คุณได้อัตโนมัติ พูดง่ายๆก็คือ มันสามารถเปลี่ยน ละครในฟรีทีวีที่บ้านเรา ให้กลายเป็นซีรียส์ใน Netflix หรือ HBO ได้ โดยเราไม่ต้องเสียค่าสมาชิกซักบาท ซึ่งหลังจากที่ Tivo ได้ออกมาสักพักแล้ว ก็ได้รับกล่าวขวัญจากชาวอเมริกันเป็นอย่างมาก จนถึงขนาดที่เค้าใช้คำว่า Tivo แทนคำกริยา ในการอัดรายการทีวีพร้อมตัดโฆษณา เลยทีเดียว แต่ถึง Tivo จะดังและปังยังไง ยอดขายของ Tivo กลับพังไม่เป็นท่า เพียงเพราะว่าพลาดไปเรื่องเดียว*******************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
-*******************************************
-ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
-http://eepurl.com/hgWraL
-*******************************************
-Facebook https://www.facebook.com/bookkery1
-*******************************************
-Blog: https://www.bookkery.com
-*******************************************
+				Apichat Banyatsupasil
+				Chief Reader
+			</description>
+		</item>
+		<item>
+			<itunes:duration>15:06</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image
+				href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+			<itunes:keywords>Start With Why, Business, Enterpreneur, Leader
+			</itunes:keywords>
+			<title>Start With Why Episode 6 - How a Tipping Point Tips</title>
+			<pubDate>Wed, 18 Nov 2020 20:05:00 +0700</pubDate>
+			<enclosure
+				url="https://www.bookkery.com/player/web/audio/startWithWhyEP6.mp3"
+				type="audio/mpeg" length="7114293" />
+			<guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP6.mp3</guid>
+			<description>Start With Why Episode 6 - แต่งโดย Simon Sinek
+				บทย่อ Part 3 Leaders Need A Following, Chapter 7 - How a Tipping Point
+				Tips
+				Tivo เป็นเครื่องอัดวีดีโอดิจิตัล เริ่มออกเปิดตัวเมื่อปี1997
+				โดยมันสามารถอัดรายการในทีวีพร้อมตัดโฆษณาออกให้คุณได้อัตโนมัติ
+				พูดง่ายๆก็คือ มันสามารถเปลี่ยน ละครในฟรีทีวีที่บ้านเรา
+				ให้กลายเป็นซีรียส์ใน Netflix หรือ HBO ได้
+				โดยเราไม่ต้องเสียค่าสมาชิกซักบาท ซึ่งหลังจากที่ Tivo
+				ได้ออกมาสักพักแล้ว ก็ได้รับกล่าวขวัญจากชาวอเมริกันเป็นอย่างมาก
+				จนถึงขนาดที่เค้าใช้คำว่า Tivo แทนคำกริยา
+				ในการอัดรายการทีวีพร้อมตัดโฆษณา เลยทีเดียว แต่ถึง Tivo
+				จะดังและปังยังไง ยอดขายของ Tivo กลับพังไม่เป็นท่า
+				เพียงเพราะว่าพลาดไปเรื่องเดียว*******************************************
+				สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+				*******************************************
+				ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
+				http://eepurl.com/hgWraL
+				*******************************************
+				Facebook https://www.facebook.com/bookkery1
+				*******************************************
+				Blog: https://www.bookkery.com
+				*******************************************
 
-Special Thanks for Awesome Resources 
-- Presentation template by SlidesCarnival
-- Icon "designed by Freepik from Flaticon"
-- Amazon Digital Video Recorder
-- The Sun news
-- Pictures from Wikimedia Commons.
-- Ishikawa Ken
-- Pictures from Pexels by Andrea Piacquadio, Chevanon Photography, Mali maeder, ThisIsEngineering
+				Special Thanks for Awesome Resources
+				- Presentation template by SlidesCarnival
+				- Icon "designed by Freepik from Flaticon"
+				- Amazon Digital Video Recorder
+				- The Sun news
+				- Pictures from Wikimedia Commons.
+				- Ishikawa Ken
+				- Pictures from Pexels by Andrea Piacquadio, Chevanon Photography,
+				Mali maeder, ThisIsEngineering
 
-Apichat Banyatsupasil
-Chief Reader@bookkery
-        </description>
-    </item>
-    <item>
-      <itunes:duration>15:17</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <itunes:keywords>Start With Why, Business, Enterpreneur, Leader</itunes:keywords>
-      <title>Start With Why Episode 7 - How to Rally Those Who Believe</title>
-      <itunes:image href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
-      <pubDate>Fri, 27 Nov 2020 13:21:00 +0700</pubDate>
-      <enclosure url="https://www.bookkery.com/player/web/audio/startWithWhyEP7.mp3" type="audio/mpeg" length="8011797" />
-      <guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP7.mp3</guid>
-      <description>Start With Why Episode 7 - แต่งโดย Simon Sinek
-บทย่อ Part 4 How to Rally Those Who Believe
-บทที่ 8 - Start With Why, but Know HOW
-บทที่ 9 - Know WHY, Know HOW, Then WHAT
-บทที่ 10 - Communication Is Not About Speaking, It’s About Listening
+				Apichat Banyatsupasil
+				Chief Reader@bookkery
+			</description>
+		</item>
+		<item>
+			<itunes:duration>15:17</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image
+				href="https://www.bookkery.com/player/img/startWithWhy.jpg" />
+			<itunes:keywords>Start With Why, Business, Enterpreneur, Leader
+			</itunes:keywords>
+			<title>Start With Why Episode 7 - How to Rally Those Who Believe</title>
+			<pubDate>Fri, 27 Nov 2020 13:21:00 +0700</pubDate>
+			<enclosure
+				url="https://www.bookkery.com/player/web/audio/startWithWhyEP7.mp3"
+				type="audio/mpeg" length="8011797" />
+			<guid isPermaLink="true">https://www.bookkery.com/player/web/audio/startWithWhyEP7.mp3</guid>
+			<description>Start With Why Episode 7 - แต่งโดย Simon Sinek
+				บทย่อ Part 4 How to Rally Those Who Believe
+				บทที่ 8 - Start With Why, but Know HOW
+				บทที่ 9 - Know WHY, Know HOW, Then WHAT
+				บทที่ 10 - Communication Is Not About Speaking, It’s About Listening
 
-ถ้าผมให้คุณคิดถึงรถมอเตอร์ไซค์ที่ในฝันซักคัน ผมเชื่อว่า Harley Davidson ก็อยู่ในหนึ่งในรถมอเตอร์ไซค์ที่คุณนึกถึงด้วยแน่นอน แบรนด์รถมอเตอร์ไซค์ที่ประสบความสำเร็จมากในประวัติศาสตร์  โดยเฉพาะในเรื่องของความจงรักภักดีที่ลูกค้ามอบให้ คนที่รักบางคนเค้ารักมากถึงขนาดที่เอาแบรนด์นี้ไปสักอยู่บนร่างกาย ทั้งหัวไหล่, ข้อมือ, กลางหลัง แล้วจะดีมั้ยครับ ถ้ามีคนรักแบรนด์สินค้าของเราถึงขนาดนี้  อะไรที่ทำให้ Harley Davidson ทำให้คนเหล่านี้รัก
+				ถ้าผมให้คุณคิดถึงรถมอเตอร์ไซค์ที่ในฝันซักคัน ผมเชื่อว่า Harley
+				Davidson ก็อยู่ในหนึ่งในรถมอเตอร์ไซค์ที่คุณนึกถึงด้วยแน่นอน
+				แบรนด์รถมอเตอร์ไซค์ที่ประสบความสำเร็จมากในประวัติศาสตร์
+				โดยเฉพาะในเรื่องของความจงรักภักดีที่ลูกค้ามอบให้
+				คนที่รักบางคนเค้ารักมากถึงขนาดที่เอาแบรนด์นี้ไปสักอยู่บนร่างกาย
+				ทั้งหัวไหล่, ข้อมือ, กลางหลัง แล้วจะดีมั้ยครับ
+				ถ้ามีคนรักแบรนด์สินค้าของเราถึงขนาดนี้ อะไรที่ทำให้ Harley Davidson
+				ทำให้คนเหล่านี้รัก
 
-*******************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
-*******************************************
-ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
-http://eepurl.com/hgWraL
-*******************************************
-Facebook https://www.facebook.com/bookkery1
-*******************************************
-Blog: https://www.bookkery.com
-*******************************************
-Special Thanks for Awesome Resources 
-- Presentation template by SlidesCarnival
-- Icons from Flaticon by FreePik, SmashIcons
-- Resources from Apple Inc.
-- Pictures from Microsoft
-- Resources from Oprah Winfrey
-- Pictures from Pontiac, Oreo, M&amp;M, alpro rice
-- Pictures from SouthWest Airlines
-- Pictures from Walt Disney
-- Pictures from Pexels by Andrea Piacquadio, Anna Shvets, Baihiki, Gustavo Fring, Kewin Bidwell, Mattheus Bartelli, Oleg Magni, Pixabay
+				*******************************************
+				สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+				*******************************************
+				ร่วมเป็นนักอ่านกับเราเพื่อ *ดาวน์โหลด* สไลด์
+				http://eepurl.com/hgWraL
+				*******************************************
+				Facebook https://www.facebook.com/bookkery1
+				*******************************************
+				Blog: https://www.bookkery.com
+				*******************************************
+				Special Thanks for Awesome Resources
+				- Presentation template by SlidesCarnival
+				- Icons from Flaticon by FreePik, SmashIcons
+				- Resources from Apple Inc.
+				- Pictures from Microsoft
+				- Resources from Oprah Winfrey
+				- Pictures from Pontiac, Oreo, M&amp;M, alpro rice
+				- Pictures from SouthWest Airlines
+				- Pictures from Walt Disney
+				- Pictures from Pexels by Andrea Piacquadio, Anna Shvets, Baihiki,
+				Gustavo Fring, Kewin Bidwell, Mattheus Bartelli, Oleg Magni, Pixabay
 
-Apichat Banyatsupasil
-Chief Reader
-        </description>
-    </item>
-  </channel>
+				Apichat Banyatsupasil
+				Chief Reader
+			</description>
+		</item>
+	</channel>
 </rss>
