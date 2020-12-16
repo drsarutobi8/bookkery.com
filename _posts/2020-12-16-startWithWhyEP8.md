@@ -34,16 +34,15 @@ Your browser does not support the audio element.
 - วันนี้คุณพร้อมจะวางมือจากบริษัทรึยัง
 - และใครคือคนที่จะเหมาะสมมาสานต่องานของคุณ
 
-ร่วมเป็นนักอ่านกับเรา เพื่อฟังคนแรก
-http://eepurl.com/hgWraL
+ร่วมเป็นนักอ่านกับเรา <a href="http://eepurl.com/hgWraL">เพื่อฟังคนแรก</a>
 *************************************************
-สนใจซื้อหนังสือ https://amzn.to/3m5VYEQ
+<a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 *************************************************
 ติดตามเรา
-Blog: https://www.bookkery.com
-Facebook https://www.facebook.com/bookkery1
-Youtube: https://www.youtube.com/channel/UCaiCBs25YbaGATuXBiGG0-Q/featured
-Apple Podcast: https://podcasts.apple.com/.../bookkery-com/id1537281629
+- <a href="https://www.bookkery.com">Blog</a>
+- <a href="https://www.facebook.com/bookkery1">Facebook</a> 
+- <a href="https://www.youtube.com/channel/UCaiCBs25YbaGATuXBiGG0-Q/featured">Youtube</a>
+- <a href="https://podcasts.apple.com/th/podcast/bookkery-com/id1537281629">Apple Podcast</a>
 *************************************************
 Special Thanks for Awesome Resources
 - Presentation template by SlidesCarnival
@@ -58,4 +57,4 @@ Special Thanks for Awesome Resources
 
 Enjoy Learning,
 Apichat Banyatsupasil
-Chief Reader
+<a href="mailto"chief.reader@bookkery.com">Chief Reader</a>
