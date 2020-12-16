@@ -27,7 +27,7 @@ Your browser does not support the audio element.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YCDWqkpP3L8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
 - <a href="/downloads/startWithWhy/startWithWhyEP8.pdf">ดาวโหลดสไลด์</a>
-- <a href="/downloads/startWithWhy/startWithWhyEP8.txt">ดาวโหลดสคริปต์</a>
+- <a href="/downloads/startWithWhy/startWithWhyEP8EBook.txt">ดาวโหลด E-Book</a>
 
 *************************************************
 ร่วมเป็นนักอ่านกับเรา <a href="http://eepurl.com/hgWraL">เพื่อฟังคนแรก</a>
