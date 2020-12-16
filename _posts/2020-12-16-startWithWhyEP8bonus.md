@@ -23,6 +23,8 @@ Your browser does not support the audio element.
 
 
 ดาวโหลด <a href="/download/startWithWhy/startWithWhyEP8.pdf">สไลด์</a>
+ดาวโหลด <a href="/download/startWithWhy/startWithWhyEP8.txt">สคริปต์</a>
+
 <a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
 
 *************************************************
