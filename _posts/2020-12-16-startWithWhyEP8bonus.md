@@ -24,8 +24,7 @@ Your browser does not support the audio element.
 </audio>
 
 ดูหนังสือเสียงและภาพ
-<iframe width="683" height="383" src="https://youtu.be/YCDWqkpP3L8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YCDWqkpP3L8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
 ดาวโหลด <a href="/download/startWithWhy/startWithWhyEP8.pdf">สไลด์</a>
 ดาวโหลด <a href="/download/startWithWhy/startWithWhyEP8.txt">สคริปต์</a>
