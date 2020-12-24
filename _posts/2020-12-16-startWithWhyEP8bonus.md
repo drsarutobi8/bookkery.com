@@ -1,6 +1,6 @@
 ---
 layout: post
-title: หนังสือเสียงและภาพ Start With Why 8 (BONUS)- 2 บททดสอบ เพื่อวางแผนผู้สืบทอด
+title: หนังสือเสียงและภาพ Start With Why 8 Bonus - 2 บททดสอบง่ายๆ เพื่อวางแผนผู้สืบทอดและใครคือคนที่เหมาะสม
 ---
 เมื่อความไม่แน่นอน คือความแน่นอน
 เมื่อคุณรู้ว่า องค์กรยังขาดคุณไม่ได้ในวันนี้ 
@@ -11,6 +11,7 @@ title: หนังสือเสียงและภาพ Start With Why 8 (
 2 บททดสอบง่ายๆที่ทำให้คุณรู้ว่า 
 - วันนี้คุณพร้อมจะวางมือจากบริษัทรึยัง
 - และใครคือคนที่จะเหมาะสมมาสานต่องานของคุณ
+- เราจะรู้ได้ยังไงว่าเราเลือกคนไม่ผิด
 
 Start With Why - แต่งโดย Simon Sinek
 บทย่อ ตอนที่ 5. - ความท้าทายที่ใหญ่ที่สุด ก็คือ ความสำเร็จ
@@ -26,8 +27,7 @@ Your browser does not support the audio element.
 ดูหนังสือเสียงและภาพ
 <iframe width="560" height="315" src="https://youtu.be/NHrNKkkXgF0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
 
-- <a href="/downloads/startWithWhy/startWithWhyEP8.pdf">ดาวโหลดสไลด์</a>
-- <a href="/downloads/startWithWhy/startWithWhyEP8EBook.pdf">ดาวโหลด E-Book</a>
+- <a href="/downloads/startWithWhy/startWithWhyEP8.pdf">ดาวโหลด E-Book</a>
 
 *************************************************
 ร่วมเป็นนักอ่านกับเรา <a href="http://eepurl.com/hgWraL">เพื่อฟังคนแรก</a>
