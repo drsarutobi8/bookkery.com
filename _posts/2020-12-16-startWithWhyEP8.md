@@ -3,7 +3,7 @@ layout: post
 title: บทเรียนจากวอลมาร์ทและยักษ์ใหญ่อื่นๆ ที่เคยพลาดจนเกือบพัง
 author: drsarutobi
 categories: [ Jekyll, tutorial ]
-image: player/img/startWithWhy8.jpg
+image: assets/images/sww/sww8.jpg
 featured: true
 hidden: true
 ---
@@ -26,7 +26,7 @@ Your browser does not support the audio element.
 </audio>
 
 **ที่มา**
-- **Start With Why** <img src="/player/img/startWithWhy.jpg" alt="Start With Why" width="100"/>
+- **Start With Why** ![Start With Why](assets/images/sww/cover.jpg)
 - *แต่งโดย Simon Sinek*
 - บทย่อ ตอนที่ 5. - ความท้าทายที่ใหญ่ที่สุด ก็คือ ความสำเร็จ
 	- บทที่ 11 - เมื่อ WHY เลือนลาง
