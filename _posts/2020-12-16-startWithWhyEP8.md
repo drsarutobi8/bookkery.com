@@ -26,7 +26,7 @@ Your browser does not support the audio element.
 </audio>
 
 #####ที่มา
-![Start With Why](player/img/startWithWhy.jpg)
+![Start With Why](/player/img/startWithWhy.jpg)
 **Start With Why**
 *แต่งโดย Simon Sinek*
 บทย่อ ตอนที่ 5. - ความท้าทายที่ใหญ่ที่สุด ก็คือ ความสำเร็จ
