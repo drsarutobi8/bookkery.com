@@ -19,14 +19,14 @@ hidden: true
 และถ้าคุณต้องให้ใครมาสานต่อกิจการของคุณ เหมือนคุณแซม 
 คุณจะป้องกันปัญหาแบบนี้ได้อย่างไร 
 
-####ฟังหนังสือเสียง
+**ฟังหนังสือเสียง**
 <audio controls>
   <source src="/player/web/audio/startWithWhyEP8bonus.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-####ที่มา
-![Start With Why](/player/img/startWithWhy.jpg =100x)
+**ที่มา**
+!(/player/img/startWithWhy.jpg =100x100)
 **Start With Why**
 *แต่งโดย Simon Sinek*
 - บทย่อ ตอนที่ 5. - ความท้าทายที่ใหญ่ที่สุด ก็คือ ความสำเร็จ
