@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'UA-178019190-1'
 disqus: 'bookkery'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://bookkery.us2.list-manage.com/subscribe?u=1554382b42fb23935404d7a17&id=652ef195e7'
 include: ["_pages"]
 permalink: /:title/
 
