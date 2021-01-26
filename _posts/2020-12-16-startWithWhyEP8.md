@@ -1,7 +1,7 @@
 ---
 layout: post
-title: เมื่อยักษ์ใหญ่อยากวอลมาร์ทยังเคยพลาด
-author: sal
+title: เรื่องที่วอลมาร์ท และยักษ์ใหญ่อื่นๆ ยังพลาดจนเกือบพัง
+author: drsarutobi
 categories: [ Jekyll, tutorial ]
 image: player/img/startWithWhy8.jpg
 featured: true
