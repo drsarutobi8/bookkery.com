@@ -1,12 +1,11 @@
 ---
 layout: post
-title: หนังสือเสียงและภาพ Start With Why 8 - เมื่อยักษ์ใหญ่ Walmart, Microsoft, Apple, Dell, Starbucks พลาด
+title: เมื่อยักษ์ใหญ่อยากวอลมาร์ทยังเคยพลาด
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: player/img/startWithWhy8.jpg
 featured: true
 hidden: true
-
 ---
 คุณแซม วอลตัน มหาเศรษฐีที่รวยที่สุดในโลก 7 ปีซ้อน ผู้ก่อตั้งวอลมาร์ท ร้านค้าปลีกที่ใหญ่ที่สุดในโลก 
 ทั้งคุณแซมและวอลมาร์ทได้รับความรักจากผู้คนรอบด้าน 
