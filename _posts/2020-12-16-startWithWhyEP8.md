@@ -19,13 +19,13 @@ hidden: true
 และถ้าคุณต้องให้ใครมาสานต่อกิจการของคุณ เหมือนคุณแซม 
 คุณจะป้องกันปัญหาแบบนี้ได้อย่างไร 
 
-#####ฟังหนังสือเสียง
+####ฟังหนังสือเสียง
 <audio controls>
   <source src="/player/web/audio/startWithWhyEP8bonus.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-#####ที่มา
+####ที่มา
 ![Start With Why](/player/img/startWithWhy.jpg =100x)
 **Start With Why**
 *แต่งโดย Simon Sinek*
