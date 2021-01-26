@@ -27,12 +27,14 @@ Your browser does not support the audio element.
 
 
 **ที่มา**
-- **Start With Why** ![Start With Why](/assets/images/sww/cover.jpg)
-- *แต่งโดย Simon Sinek*
+**Start With Why** ![Start With Why](/assets/images/sww/cover.jpg)
+*แต่งโดย Simon Sinek*
+
 - บทย่อ ตอนที่ 5. - ความท้าทายที่ใหญ่ที่สุด ก็คือ ความสำเร็จ
 	- บทที่ 11 - เมื่อ WHY เลือนลาง
 	- บทที่ 12 - เมื่อองค์กรมีรอยแตกเกิดขึ้น
-- [ซื้อหนังสือ เพื่อสนับสนุนเรา](https://amzn.to/3m5VYEQ)
+
+ [ซื้อหนังสือ เพื่อสนับสนุนเรา](https://amzn.to/3m5VYEQ)
 
 
 ---
