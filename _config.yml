@@ -3,7 +3,7 @@ name: "bookkery.com"
 title: "bookkery.com"
 description: "We serve books that inspire you."
 logo: 'player/img/icon.jpg'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'UA-178019190-1'
 disqus: 'bookkery'
