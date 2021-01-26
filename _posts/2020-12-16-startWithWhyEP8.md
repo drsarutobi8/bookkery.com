@@ -42,12 +42,12 @@ Your browser does not support the audio element.
 
 ---
 **ขอขอบคุณ**
-- Presentation template by SlidesCarnival
-- Icons from Flaticon by FreePik, Monkik, SmashIcons
+- Presentation template by [SlidesCarnival](https://www.slidescarnival.com)
+- Icons from [Flaticon](https://www.flaticon.com) by FreePik, Monkik, SmashIcons
 - Pictures from Apple Inc.
 - Pictures from Dell
 - Pictures from Microsoft
 - Pictures from Starbucks
 - Pictures from Southwest Airlines
 - Pictures from Walmart
-- Pictures from Pexels by Andrea Piacquadio, Анна Рыжкова, Christina Morillo, fauxels, ICSA, Ketut Subiyanto, Luca Nardone, Mihai Vlasceanu, Pixabay, Ketut Subiyanto, Sora Shimazaki, ThisIsEngineering
+- Pictures from [Pexels](https://www.pexels.com) by Andrea Piacquadio, Анна Рыжкова, Christina Morillo, fauxels, ICSA, Ketut Subiyanto, Luca Nardone, Mihai Vlasceanu, Pixabay, Ketut Subiyanto, Sora Shimazaki, ThisIsEngineering
