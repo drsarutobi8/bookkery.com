@@ -2,7 +2,7 @@
 layout: post
 title: บทเรียนจากวอลมาร์ทและยักษ์ใหญ่อื่นๆ ที่เคยพลาดจนเกือบพัง
 author: drsarutobi
-categories: [ Jekyll, tutorial ]
+categories: [Leadership, Entrepreneur]
 image: assets/images/sww/sww8.jpg
 featured: true
 hidden: true
