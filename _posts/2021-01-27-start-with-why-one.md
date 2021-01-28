@@ -47,7 +47,7 @@ toc: true
 ---
 **สนับสนุนเรา**
 
-==Start With Why== *แต่งโดย Simon Sinek*
+<u>Start With Why</u> *แต่งโดย Simon Sinek*
 
 [![Start With Why](/assets/images/sww/book_thai.jpg)](https://amzn.to/3m5VYEQ)
 
