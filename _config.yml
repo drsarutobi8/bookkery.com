@@ -14,13 +14,13 @@ permalink: /:title/
 # Authors
 authors:
   drsarutobi:
-    name: Apichat Banyatsupasil
-    display_name: drsarutobi
+    name: อภิชาต บัญญัติศุภศิล
+    display_name: หนุ่ม
     gravatar: b509672e2488b429cfad2cc5393cb625
     email: chief.reader@bookkery.com
     web: https://www.bookkery.com
     facebook: https://www.facebook.com/drsarutobi
-    description: "A slow, slow reader who loves to share his learnings and ideas to the world."
+    description: "อ่านช้า คิดช้า แต่รักที่จะแบ่งปันสิ่งที่เรียนรู้และไอเดียใหม่ๆให้กับโลกใบนี้"
 
 # Plugins
 plugins:
