@@ -49,8 +49,7 @@ toc: true
 
 Start With Why *แต่งโดย Simon Sinek*
 
-[![Start With Why](/assets/images/sww/book_thai.jpg)](https://amzn.to/3m5VYEQ)
-
+[![Start With Why](/assets/images/sww/book_thai.jpg)](https://amzn.to/3m5VYEQ) 
 [![Start With Why](/assets/images/sww/book_eng.jpg)](https://amzn.to/3m5VYEQ)
 
 ---
