@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Start With Why EP3 This Is Not Opinion, This Is Biology
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
+hidden: true
 ---
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 4 - This Is Not Opinion, This Is Biology

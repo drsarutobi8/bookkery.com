@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Start With Why EP7 - How to Rally Those Who Believe
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
 hidden: true
-rating: 4.5
 ---
 Start With Why Episode 7 - แต่งโดย Simon Sinek
 บทย่อ Part 4 How to Rally Those Who Believe

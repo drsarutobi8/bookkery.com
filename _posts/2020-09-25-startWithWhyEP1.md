@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Start With Why EP1 The World That Doesn't Start With Why
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
+hidden: true
 ---
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 1 The World That Doesn't Start With Why      

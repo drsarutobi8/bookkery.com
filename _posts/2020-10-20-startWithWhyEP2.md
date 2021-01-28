@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Start With Why EP2 The Golden Circle
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
+hidden: true
 ---
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 3 - The Golden Circle

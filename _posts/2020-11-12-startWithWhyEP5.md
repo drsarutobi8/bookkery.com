@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Start With Why EP5 - The Emergence of Trust
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
+hidden: true
 ---
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 3 Leaders Need A Following, Chapter 6 - The Emergence of Trust

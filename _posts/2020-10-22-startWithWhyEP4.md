@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Start With Why EP4 - Clarity, Discipline and Consistency
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
+hidden: true
 ---
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 5 - Clarity, Discipline and Consistency

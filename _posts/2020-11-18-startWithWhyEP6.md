@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Start With Why EP6 - How a Tipping Point Tips
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
+hidden: true
 ---
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 3 Leaders Need A Following, Chapter 7 - How a Tipping Point Tips

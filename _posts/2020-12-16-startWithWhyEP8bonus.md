@@ -1,6 +1,11 @@
 ---
 layout: post
 title: หนังสือเสียงและภาพ Start With Why 8 Bonus - 2 บททดสอบง่ายๆ เพื่อวางแผนผู้สืบทอดและใครคือคนที่เหมาะสม
+author: drsarutobi
+categories: [Leadership, Entrepreneurship]
+image: assets/images/sww/cover.jpg
+featured: false
+hidden: true
 ---
 ภายใน 4 นาที มาเรียนรู้ 2 บททดสอบง่ายๆที่ทำให้คุณรู้ว่า 
 - วันนี้คุณพร้อมจะวางมือจากบริษัทรึยัง
