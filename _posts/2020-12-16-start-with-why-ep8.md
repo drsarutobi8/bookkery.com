@@ -5,7 +5,7 @@ author: drsarutobi
 categories: [Leadership, Entrepreneurship]
 image: assets/images/sww/sww8.jpg
 featured: true
-hidden: true
+hidden: false
 ---
 คุณแซม วอลตัน มหาเศรษฐีที่รวยที่สุดในโลก 7 ปีซ้อน ผู้ก่อตั้งวอลมาร์ท ร้านค้าปลีกที่ใหญ่ที่สุดในโลก 
 ทั้งคุณแซมและวอลมาร์ทได้รับความรักจากผู้คนรอบด้าน 
