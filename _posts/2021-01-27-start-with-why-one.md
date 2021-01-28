@@ -43,8 +43,7 @@ hidden: true
 เราได้เพื่อนร่วมทาง ที่ช่วยกันและกัน
 และได้คนสืบทอดสิ่งดีๆที่เราอยากทิ้งให้โลกใบนี้
 
-**ที่มา**
+---
+**Start With Why** *แต่งโดย Simon Sinek*
 
-**Start With Why** 
-- *แต่งโดย Simon Sinek*
-- [ซื้อหนังสือ เพื่อสนับสนุนเรา ![Start With Why](/assets/images/sww/cover_thai.jpg)](https://amzn.to/3m5VYEQ)
+[ซื้อหนังสือ เพื่อสนับสนุนเรา ![Start With Why](/assets/images/sww/cover_thai.jpg)](https://amzn.to/3m5VYEQ)
