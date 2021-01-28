@@ -28,7 +28,7 @@ Your browser does not support the audio element.
 
 **ที่มา**
 
-**Start With Why** ![Start With Why](/assets/images/sww/cover.jpg)
+**Start With Why** ![Start With Why](/assets/images/sww/book_eng.jpg)
 
 *แต่งโดย Simon Sinek*
 

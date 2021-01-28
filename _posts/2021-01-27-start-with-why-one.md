@@ -3,7 +3,7 @@ layout: post
 title: ตั้งคำถามเพียง 1 ข้อก็พลิกจากตามขึ้นมานำ
 author: drsarutobi
 categories: [Leadership, Entrepreneurship]
-image: assets/images/sww/cover_thai.jpg
+image: assets/images/sww/cover.jpg
 featured: false
 hidden: true
 ---
@@ -44,6 +44,21 @@ hidden: true
 และได้คนสืบทอดสิ่งดีๆที่เราอยากทิ้งให้โลกใบนี้
 
 ---
+## สนับสนุนเรา
 **Start With Why** *แต่งโดย Simon Sinek*
 
-[ซื้อหนังสือ เพื่อสนับสนุนเรา ![Start With Why](/assets/images/sww/cover_thai.jpg)](https://amzn.to/3m5VYEQ)
+[![Start With Why](/assets/images/sww/book_thai.jpg)](https://amzn.to/3m5VYEQ)
+
+[![Start With Why](/assets/images/sww/book_eng.jpg)](https://amzn.to/3m5VYEQ)
+
+---
+**ขอขอบคุณ**
+- Presentation template จาก [SlidesCarnival](https://www.slidescarnival.com)
+- Icons จาก  [Flaticon](https://www.flaticon.com) by FreePik, Monkik, SmashIcons
+- Pictures from Apple Inc.
+- Pictures from Dell
+- Pictures from Microsoft
+- Pictures from Starbucks
+- Pictures from Southwest Airlines
+- Pictures from Walmart
+- รูปภาพสวยๆ จาก [Pexels](https://www.pexels.com) by Andrea Piacquadio, Archie Binamira
