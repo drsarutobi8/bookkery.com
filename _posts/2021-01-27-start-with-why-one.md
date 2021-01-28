@@ -45,9 +45,9 @@ toc: true
 และได้คนสืบทอดสิ่งดีๆที่เราอยากทิ้งให้โลกใบนี้
 
 ---
-**สนับสนุนเรา**
+**อยากสนับสนุนเรา ซื้อหนังสือกับเรา**
 
-<u>Start With Why</u> *แต่งโดย Simon Sinek*
+Start With Why *แต่งโดย Simon Sinek*
 
 [![Start With Why](/assets/images/sww/book_thai.jpg)](https://amzn.to/3m5VYEQ)
 
