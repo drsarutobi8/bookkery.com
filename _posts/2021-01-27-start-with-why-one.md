@@ -62,3 +62,9 @@ hidden: true
 - Pictures from Southwest Airlines
 - Pictures from Walmart
 - รูปภาพสวยๆ จาก [Pexels](https://www.pexels.com) by Andrea Piacquadio, Archie Binamira
+
+---
+**ติดตามเรา**
+- [Facebook](https://www.facebook.com/bookkery1)
+- [Youtube](https://www.youtube.com/channel/UCaiCBs25YbaGATuXBiGG0-Q/featured)
+- [Apple Podcast](https://podcasts.apple.com/th/podcast/bookkery-com/id1537281629)
