@@ -45,6 +45,6 @@ hidden: true
 
 **ที่มา**
 
-**Start With Why** ![Start With Why](/assets/images/sww/cover_thai.jpg)
-*แต่งโดย Simon Sinek*
- [ซื้อหนังสือ เพื่อสนับสนุนเรา](https://amzn.to/3m5VYEQ)
+**Start With Why** 
+- *แต่งโดย Simon Sinek*
+- [ซื้อหนังสือ เพื่อสนับสนุนเรา ![Start With Why](/assets/images/sww/cover_thai.jpg)](https://amzn.to/3m5VYEQ)
