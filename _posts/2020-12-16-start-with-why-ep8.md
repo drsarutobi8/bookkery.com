@@ -2,7 +2,7 @@
 layout: post
 title: บทเรียนจากวอลมาร์ทและยักษ์ใหญ่อื่นๆ ที่เคยพลาดจนเกือบพัง
 author: drsarutobi
-categories: [Leadership, Entrepreneur]
+categories: [Leadership, Entrepreneurship]
 image: assets/images/sww/sww8.jpg
 featured: true
 hidden: true
