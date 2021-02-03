@@ -10,6 +10,7 @@ disqus: 'bookkery'
 mailchimp-list: 'https://bookkery.us2.list-manage.com/subscribe?u=1554382b42fb23935404d7a17&id=652ef195e7'
 include: ["_pages"]
 permalink: /:title/
+url: "https://www.bookkery.com/"
 
 # Authors
 authors:
