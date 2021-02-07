@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: [อ่าน] ตั้งคำถามเพียง 1 ข้อก็พลิกจากตามขึ้นมานำ
+title: (อ่าน) ตั้งคำถามเพียง 1 ข้อก็พลิกจากตามขึ้นมานำ
 author: drsarutobi
 categories: [Leadership, Entrepreneurship]
 image: assets/images/sww/cover.jpg
