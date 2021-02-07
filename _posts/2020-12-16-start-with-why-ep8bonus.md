@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 บททดสอบง่ายๆ เพื่อวางแผนผู้สืบทอดและใครคือคนที่เหมาะสม
+title: [ฟัง] 2 บททดสอบง่ายๆ เพื่อวางแผนผู้สืบทอดและใครคือคนที่เหมาะสม
 author: drsarutobi
 categories: [Leadership, Entrepreneurship]
 image: assets/images/sww/sww8bonus.jpg
