@@ -4,8 +4,8 @@ title: ตั้งคำถามเพียง 1 ข้อก็พลิก�
 author: drsarutobi
 categories: [Leadership, Entrepreneurship]
 image: assets/images/sww/cover.jpg
-featured: false
-hidden: true
+featured: true
+hidden: false
 toc: true
 ---
 ### บทนำ
