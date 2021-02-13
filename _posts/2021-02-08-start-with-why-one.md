@@ -8,7 +8,20 @@ featured: true
 hidden: false
 toc: true
 ---
+
+<audio controls>
+  <source src="/player/web/audio/SWW_ONE.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<video width="960" controls>
+  <source src="/player/web/audio/SWW_ONE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### บทนำ
+
+
 ถ้าวันนี้คุณอยากประสบความสำเร็จเหมือน Apple,
 รถมอเตอร์ไซค์ Harley Davidson, 
 สายการบิน Southwest Airlines
