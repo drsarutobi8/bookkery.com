@@ -2,7 +2,7 @@
 layout: post
 title: (ฟัง) 2 บททดสอบง่ายๆ เพื่อวางแผนผู้สืบทอดและใครคือคนที่เหมาะสม
 author: drsarutobi
-categories: [Leadership, Entrepreneurship]
+categories: [Business, Entrepreneurship]
 image: assets/images/sww/sww8bonus.jpg
 featured: true
 hidden: false

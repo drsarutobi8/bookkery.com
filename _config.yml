@@ -5,12 +5,20 @@ description: "We serve books that inspire you."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-google_analytics: 'UA-178019190-1'
-disqus: 'bookkery'
-mailchimp-list: 'https://bookkery.us2.list-manage.com/subscribe?u=1554382b42fb23935404d7a17&id=652ef195e7'
-include: ["_pages"]
-permalink: /:title/
+language: th
+mailchimp-list: https://bookkery.us2.list-manage.com/subscribe?u=1554382b42fb23935404d7a17&id=652ef195e7
+timezone: Asia/Bangkok
 url: "https://www.bookkery.com/"
+
+# Social
+disqus: 'bookkery'
+email: chief.reader@bookkery.com
+facebook: bookkery1
+instragram: bookkery
+apple_podcast: bookkery-com/id1537281629
+mailchimp: 'http://eepurl.com/hgWraL'
+permalink: /:title/
+youtube: UCaiCBs25YbaGATuXBiGG0-Q
 
 # Authors
 authors:
@@ -22,6 +30,16 @@ authors:
     web: https://www.bookkery.com
     facebook: https://www.facebook.com/drsarutobi
     description: "อ่านช้า คิดไว ทำอะไรก็นาน แต่รักที่จะแบ่งปันสิ่งที่เรียนรู้และไอเดียใหม่ๆให้กับโลกใบนี้"
+
+# iTune Categories
+itune_categories:
+  Business:
+    - "Entrepreneurship"
+    - "Management"
+    - "Marketing"
+  Education:
+    - "How To"
+    - "Self-Improvement"
 
 # Plugins
 plugins:
@@ -53,6 +71,8 @@ kramdown:
     block:
       line_numbers: true
 
+google_analytics: 'UA-178019190-1'
+
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
@@ -61,4 +81,8 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
+include: ["_pages"]
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+collections:
+  productitems:

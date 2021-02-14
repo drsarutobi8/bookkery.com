@@ -2,7 +2,7 @@
 layout: post
 title: Start With Why EP5 - The Emergence of Trust
 author: drsarutobi
-categories: [Leadership, Entrepreneurship]
+categories: [Business, Entrepreneurship]
 image: assets/images/sww/cover.jpg
 featured: false
 hidden: true

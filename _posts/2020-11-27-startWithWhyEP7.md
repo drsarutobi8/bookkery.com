@@ -2,7 +2,7 @@
 layout: post
 title: Start With Why EP7 - How to Rally Those Who Believe
 author: drsarutobi
-categories: [Leadership, Entrepreneurship]
+categories: [Business, Entrepreneurship]
 image: assets/images/sww/cover.jpg
 featured: false
 hidden: true

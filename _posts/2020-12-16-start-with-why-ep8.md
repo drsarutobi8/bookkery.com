@@ -2,10 +2,35 @@
 layout: post
 title: (ฟัง) บทเรียนจากวอลมาร์ทและยักษ์ใหญ่อื่นๆ ที่เคยพลาดจนเกือบพัง
 author: drsarutobi
-categories: [Leadership, Entrepreneurship]
+categories: [Business, Entrepreneurship]
 image: assets/images/sww/sww8.jpg
 featured: true
 hidden: false
+toc: false
+
+[comment]: <> (for rss feed.xml)
+itunes_image: "player/img/startWithWhy.jpg"
+itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
+itunes_explicit: "no"
+audio_location: "player/web/audio/startWithWhyEP8.mp3"
+audio_duration: "12:56"
+audio_length: 7814301
+video_location: "player/web/audio/startWithWhyEP8.mp4"
+video_duration: "17:55"
+video_length: 8509869
+
+[comment]: <> (for this page)
+credits:
+- "Presentation template by https://www.slidescarnival.com"
+- "Icons จาก  flaticon by by FreePik, Monkik, SmashIcons"
+- "Pictures from Apple Inc."
+- "Pictures from Dell"
+- "Pictures from Microsoft"
+- "Pictures from Starbucks"
+- "Pictures from Southwest Airlines"
+- "Pictures from Walmart"
+- "Pictures from Pexels by Andrea Piacquadio, Анна Рыжкова, Christina Morillo, fauxels, ICSA, Ketut Subiyanto, Luca Nardone, Mihai Vlasceanu, Pixabay, Ketut Subiyanto, Sora Shimazaki, ThisIsEngineering"
+productID: sww
 ---
 คุณแซม วอลตัน มหาเศรษฐีที่รวยที่สุดในโลก 7 ปีซ้อน ผู้ก่อตั้งวอลมาร์ท ร้านค้าปลีกที่ใหญ่ที่สุดในโลก 
 ทั้งคุณแซมและวอลมาร์ทได้รับความรักจากผู้คนรอบด้าน 
@@ -21,7 +46,7 @@ hidden: false
 
 **ฟังหนังสือเสียง**
 <audio controls>
-  <source src="/player/web/audio/startWithWhyEP8.mp3" type="audio/mpeg">
+  <source src="/{{page.audio_location}}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -36,24 +61,21 @@ Your browser does not support the audio element.
 - บทที่ 11 - เมื่อ WHY เลือนลาง
 - บทที่ 12 - เมื่อองค์กรมีรอยแตกเกิดขึ้น
 
- [ซื้อหนังสือ เพื่อสนับสนุนเรา](https://amzn.to/3m5VYEQ)
-
-
 ---
-**ติดตามเรา**
-- [Facebook](https://www.facebook.com/bookkery1)
-- [Youtube](https://www.youtube.com/channel/UCaiCBs25YbaGATuXBiGG0-Q/featured)
-- [Apple Podcast](https://podcasts.apple.com/th/podcast/bookkery-com/id1537281629)
-
+**อยากสนับสนุนเรา ซื้อหนังสือกับเรา**
+{% for productitem in site.productitems | where:"productID", page.productID %}
+[![{{productitem.title}}](/{{productitem.image_path}})]({{productitem.link}}){% endfor %}
 
 ---
 **ขอขอบคุณ**
-- Presentation template by [SlidesCarnival](https://www.slidescarnival.com)
-- Icons from [Flaticon](https://www.flaticon.com) by FreePik, Monkik, SmashIcons
-- Pictures from Apple Inc.
-- Pictures from Dell
-- Pictures from Microsoft
-- Pictures from Starbucks
-- Pictures from Southwest Airlines
-- Pictures from Walmart
-- Pictures from [Pexels](https://www.pexels.com) by Andrea Piacquadio, Анна Рыжкова, Christina Morillo, fauxels, ICSA, Ketut Subiyanto, Luca Nardone, Mihai Vlasceanu, Pixabay, Ketut Subiyanto, Sora Shimazaki, ThisIsEngineering
+{% for credit in page.credits %}
+- {{credit | xml_escape}}
+{% endfor %}
+
+---
+**ติดตามเรา**
+- [Blog]({{site.url}})
+- [Facebook](https://www.facebook.com/{{site.facebook}})
+- [Instragram](https://www.instagram.com/{{site.instragram}})
+- [Youtube](https://www.youtube.com/channel/{{site.youtube}})
+- [Apple Podcast](https://podcasts.apple.com/th/podcast/{{site.apple_podcast}})

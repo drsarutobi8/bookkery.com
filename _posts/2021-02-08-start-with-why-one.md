@@ -1,43 +1,37 @@
 ﻿---
 layout: post
-title: (อ่าน) ตั้งคำถามเพียง 1 ข้อก็พลิกจากตามขึ้นมานำ
+title: ตั้งคำถามเพียง 1 ข้อก็พลิกจากตามขึ้นมานำ
 author: drsarutobi
-categories: [Leadership, Entrepreneurship]
-image: assets/images/sww/cover.svg
+categories: [Business, Entrepreneurship]
+image: "assets/images/sww/cover.svg"
 featured: true
 hidden: false
 toc: true
+
+[comment]: <> (for rss feed.xml)
+itunes_image: "player/img/startWithWhy.jpg"
+itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
+itunes_explicit: "no"
+audio_location: "player/web/audio/SWW_ONE.mp3"
+audio_duration: "17:55"
+audio_length: 8509869
+video_location: "player/web/audio/SWW_ONE.mp4"
+
+[comment]: <> (for this page)
+credits:
+- "Presentation template by https://www.slidescarnival.com"
+- "Icons จาก  flaticon by Becris, ECreaticca Creative Agency, DinosoftLab, FreePik, geotatah, Icongeek26, Monkik, Nikita Golubev, Pause08, sarung, SmageotatahshIcons, Pause08, sarung,ucalyp, ultimatearm"
+- "โลโก้จาก Apple Inc, Harley Davidson, Southwest Airlines"
+productID: sww
 ---
+ถ้าวันนี้คุณอยากประสบความสำเร็จเหมือน Apple, รถมอเตอร์ไซค์ Harley Davidson, สายการบิน Southwest Airlines แบรนด์ชั้นนำเหล่านี้ ทำอะไรออกมาก็เป็นที่ชื่นชอบ และดูจะประสบความสำเร็จไปซะหมด แต่ม้นไม่ใช่เรื่องบังเอิญ เราเองก็สามารถเรียนรู้และทำแบบเค้าได้ มันเริ่มต้นด้วยการตั้งคำถามที่ใช่ แล้วค่อยค้นหาคำตอบ
 
 <audio controls>
-  <source src="/player/web/audio/SWW_ONE.mp3" type="audio/mpeg">
+  <source src="/{{page.audio_location}}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-<video width="960" controls>
-  <source src="/player/web/audio/SWW_ONE.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### บทนำ
-
-
-ถ้าวันนี้คุณอยากประสบความสำเร็จเหมือน Apple,
-รถมอเตอร์ไซค์ Harley Davidson, 
-สายการบิน Southwest Airlines
-แบรนด์ชั้นนำเหล่านี้ ทำอะไรออกมาก็เป็นที่ชื่นชอบ 
-และดูจะประสบความสำเร็จไปซะหมด
-แต่ม้นไม่ใช่เรื่องบังเอิญ 
-เราเองก็สามารถเรียนรู้ และทำแบบเค้าได้
-
-มันเริ่มต้นด้วยการตั้งคำถามที่ใช่ 
-แล้วค่อยค้นหาคำตอบ
-
-เพราะในทางกลับกัน
-ถ้าเราเริ่มต้นด้วยคำถามที่ผิด 
-ต่อให้ได้คำตอบที่ถูกต้อง 
-มันก็พาเราไปผิดที่อยู่ดี
-
+### แนะนำหนังสือ
 ![Start With Why by Simon Sinek](/assets/images/sww/sww-p0.svg)
 หนังสือเล่มนี้ชื่อ Start With Why แต่งโดยคุณ Simon Sinek
 ที่จะสอนให้เรารู้ว่า ผู้นำเก่งๆ เค้าสร้างแรงบันดาลใจอย่างไรให้ทุกคนลงมือทำ
@@ -424,21 +418,39 @@ Apple บอกให้โลกรู้ว่า เราสามารถ�
 
 ---
 **อยากสนับสนุนเรา ซื้อหนังสือกับเรา**
-
-Start With Why *แต่งโดย Simon Sinek*
-
-[![Start With Why](/assets/images/sww/book_thai.jpg)](https://amzn.to/3m5VYEQ) 
-[![Start With Why](/assets/images/sww/book_eng.jpg)](https://amzn.to/3m5VYEQ)
+{% for productitem in site.productitems | where:"productID", page.productID %}
+[![{{productitem.title}}](/{{productitem.image_path}})]({{productitem.link}}){% endfor %}
 
 ---
 **ขอขอบคุณ**
-- Presentation template จาก [SlidesCarnival](https://www.slidescarnival.com)
-- Icons จาก  [Flaticon](https://www.flaticon.com) by Becris, ECreaticca Creative Agency, DinosoftLab, FreePik, geotatah, Icongeek26, Monkik, Nikita Golubev, Pause08, sarung, SmageotatahshIcons, Pause08, sarung,ucalyp, ultimatearm
-- Pictures from Apple Inc.
-- รูปภาพสวยๆ จาก [Pexels](https://www.pexels.com) by Andrea Piacquadio, Archie Binamira
+{% for credit in page.credits %}
+- {{credit | xml_escape}}
+{% endfor %}
 
 ---
 **ติดตามเรา**
-- [Facebook](https://www.facebook.com/bookkery1)
-- [Youtube](https://www.youtube.com/channel/UCaiCBs25YbaGATuXBiGG0-Q/featured)
-- [Apple Podcast](https://podcasts.apple.com/th/podcast/bookkery-com/id1537281629)
+- [Blog]({{site.url}})
+- [Facebook](https://www.facebook.com/{{site.facebook}})
+- [Instragram](https://www.instagram.com/{{site.instragram}})
+- [Youtube](https://www.youtube.com/channel/{{site.youtube}})
+- [Apple Podcast](https://podcasts.apple.com/th/podcast/{{site.apple_podcast}})
+
+<!-- modify this form HTML and place wherever you want your form -->
+
+<form
+  action="https://formspree.io/f/mnqoyjrq"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>

@@ -2,7 +2,7 @@
 layout: post
 title: Start With Why EP6 - How a Tipping Point Tips
 author: drsarutobi
-categories: [Leadership, Entrepreneurship]
+categories: [Business, Entrepreneurship]
 image: assets/images/sww/cover.jpg
 featured: false
 hidden: true

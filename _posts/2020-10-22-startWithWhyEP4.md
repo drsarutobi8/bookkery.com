@@ -2,7 +2,7 @@
 layout: post
 title: Start With Why EP4 - Clarity, Discipline and Consistency
 author: drsarutobi
-categories: [Leadership, Entrepreneurship]
+categories: [Business, Entrepreneurship]
 image: assets/images/sww/cover.jpg
 featured: false
 hidden: true
