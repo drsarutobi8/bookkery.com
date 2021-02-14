@@ -3,7 +3,7 @@ layout: post
 title: (ฟัง) บทเรียนจากวอลมาร์ทและยักษ์ใหญ่อื่นๆ ที่เคยพลาดจนเกือบพัง
 author: drsarutobi
 categories: [Business, Entrepreneurship]
-image: assets/images/sww/sww8.jpg
+image: assets/images/sww/sww-8_cover.svg
 featured: true
 hidden: false
 toc: false

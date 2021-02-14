@@ -3,7 +3,7 @@ layout: post
 title: ตั้งคำถามเพียง 1 ข้อก็พลิกจากตามขึ้นมานำ
 author: drsarutobi
 categories: [Business, Entrepreneurship]
-image: "assets/images/sww/cover.svg"
+image: "assets/images/sww/sww-one_cover.svg"
 featured: true
 hidden: false
 toc: true
