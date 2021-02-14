@@ -6,6 +6,32 @@ categories: [Business, Entrepreneurship]
 image: assets/images/sww/sww8bonus.jpg
 featured: true
 hidden: false
+
+[comment]: <> (for rss feed.xml)
+itunes_image: "player/img/startWithWhy8bonus.jpg"
+itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
+itunes_explicit: "no"
+audio_location: "player/web/audio/startWithWhyEP8bonus.mp3"
+audio_duration: "3:36"
+audio_length: 2258685
+video_location: "player/web/audio/startWithWhyEP8bonus.mp4"
+video_duration: "3:37"
+video_length: 26375065
+
+[comment]: <> (for this page)
+credits:
+- "Presentation template by https://www.slidescarnival.com"
+- "Icons from flaticon by FreePik, Monkik, SmashIcons"
+- "Pictures from Apple Inc."
+- "Pictures from Dell"
+- "Pictures from Microsoft"
+- "Pictures from Starbucks"
+- "Pictures from Southwest Airlines"
+- "Pictures from Walmart"
+- "Pictures from https://www.pexels.com by Andrea Piacquadio, Анна Рыжкова, Christina Morillo, fauxels, ICSA, Ketut Subiyanto, Luca Nardone, Mihai Vlasceanu, Pixabay, Ketut Subiyanto, Sora Shimazaki, ThisIsEngineering"
+
+productID: sww
+
 ---
 ภายใน 4 นาที มาเรียนรู้ 2 บททดสอบง่ายๆที่ทำให้คุณรู้ว่า 
 - วันนี้คุณพร้อมจะวางมือจากบริษัทรึยัง
@@ -35,24 +61,21 @@ Your browser does not support the audio element.
 - บทที่ 11 - เมื่อ WHY เลือนลาง
 - บทที่ 12 - เมื่อองค์กรมีรอยแตกเกิดขึ้น
 
- [ซื้อหนังสือ เพื่อสนับสนุนเรา](https://amzn.to/3m5VYEQ)
-
-
 ---
-**ติดตามเรา**
-- [Facebook](https://www.facebook.com/bookkery1)
-- [Youtube](https://www.youtube.com/channel/UCaiCBs25YbaGATuXBiGG0-Q/featured)
-- [Apple Podcast](https://podcasts.apple.com/th/podcast/bookkery-com/id1537281629)
-
+**อยากสนับสนุนเรา ซื้อหนังสือกับเรา**
+{% for productitem in site.productitems | where:"productID", page.productID %}
+[![{{productitem.title}}](/{{productitem.image_path}})]({{productitem.link}}){% endfor %}
 
 ---
 **ขอขอบคุณ**
-- Presentation template by [SlidesCarnival](https://www.slidescarnival.com)
-- Icons from [Flaticon](https://www.flaticon.com) by FreePik, Monkik, SmashIcons
-- Pictures from Apple Inc.
-- Pictures from Dell
-- Pictures from Microsoft
-- Pictures from Starbucks
-- Pictures from Southwest Airlines
-- Pictures from Walmart
-- Pictures from [Pexels](https://www.pexels.com) by Andrea Piacquadio, Анна Рыжкова, Christina Morillo, fauxels, ICSA, Ketut Subiyanto, Luca Nardone, Mihai Vlasceanu, Pixabay, Ketut Subiyanto, Sora Shimazaki, ThisIsEngineering
+{% for credit in page.credits %}
+- {{credit | xml_escape}}
+{% endfor %}
+
+---
+**ติดตามเรา**
+- [Blog]({{site.url}})
+- [Facebook](https://www.facebook.com/{{site.facebook}})
+- [Instragram](https://www.instagram.com/{{site.instragram}})
+- [Youtube](https://www.youtube.com/channel/{{site.youtube}})
+- [Apple Podcast](https://podcasts.apple.com/th/podcast/{{site.apple_podcast}})

@@ -9,15 +9,15 @@ hidden: false
 toc: false
 
 [comment]: <> (for rss feed.xml)
-itunes_image: "player/img/startWithWhy.jpg"
+itunes_image: "player/img/startWithWhy8.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
 audio_location: "player/web/audio/startWithWhyEP8.mp3"
 audio_duration: "12:56"
 audio_length: 7814301
 video_location: "player/web/audio/startWithWhyEP8.mp4"
-video_duration: "17:55"
-video_length: 8509869
+video_duration: "12:56"
+video_length: 88921553
 
 [comment]: <> (for this page)
 credits:

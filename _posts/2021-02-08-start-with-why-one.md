@@ -16,6 +16,8 @@ audio_location: "player/web/audio/SWW_ONE.mp3"
 audio_duration: "17:55"
 audio_length: 8509869
 video_location: "player/web/audio/SWW_ONE.mp4"
+video_duration: "17:55"
+video_length: 78765483
 
 [comment]: <> (for this page)
 credits:
