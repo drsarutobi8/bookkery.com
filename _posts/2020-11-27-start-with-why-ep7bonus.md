@@ -1,6 +1,6 @@
 ---
 layout: post
-title: คำแนะนำดีๆ น่าทำไปหมด ทำอันไหนก่อนดี หรือทำมันทุกอย่างดีมั้ย
+title: คำแนะนำดีๆเต็มไปหมด ทำอันไหนดี
 author: drsarutobi
 categories: [Business, Entrepreneurship]
 image: "assets/images/sww/sww-7bonus_cover.svg"
