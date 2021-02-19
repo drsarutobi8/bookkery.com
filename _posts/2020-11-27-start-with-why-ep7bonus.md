@@ -3,7 +3,7 @@ layout: post
 title: คำแนะนำดีๆเต็มไปหมด ทำอันไหนดี
 author: drsarutobi
 categories: [Business, Entrepreneurship]
-image: "assets/images/sww/sww-7bonus_cover.svg"
+image: "assets/images/sww/sww-7bonus.svg"
 featured: false
 hidden: false
 
@@ -11,10 +11,10 @@ hidden: false
 itunes_image: "player/img/startWithWhy.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
-audio_location: "player/web/audio/startWithWhyEP7bonus.mp3"
+audio_location: "player/web/audio/sww-7bonus.mp3"
 audio_duration: "4:42"
 audio_length: 2610021
-video_location: "player/web/audio/startWithWhyEP7bonus.mp4"
+video_location: "player/web/audio/sww-7bonus.mp4"
 video_duration: "4:42"
 video_length: 76893410
 

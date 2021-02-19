@@ -1,20 +1,20 @@
 ---
 layout: post
-title: สาวกพันธ์แท้
+title: สาวกพันธ์ุแท้ เค้าสร้างกันยังไง
 author: drsarutobi
 categories: [Business, Entrepreneurship]
-image: "assets/images/sww/sww-7_cover.svg"
+image: "assets/images/sww/sww-7.svg"
 featured: false
 hidden: false
 
 [comment]: <> (for rss feed.xml)
-itunes_image: "player/img/startWithWhy.jpg"
+itunes_image: "player/img/sww-7.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
-audio_location: "player/web/audio/startWithWhyEP7.mp3"
+audio_location: "player/web/audio/sww-7.mp3"
 audio_duration: "11:51"
 audio_length: 6363021
-video_location: "player/web/audio/startWithWhyEP7.mp4"
+video_location: "player/web/audio/sww-7.mp4"
 video_duration: "11:51"
 video_length: 85240558
 

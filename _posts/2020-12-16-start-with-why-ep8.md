@@ -3,19 +3,19 @@ layout: post
 title: เมื่อยักษ์ใหญ่พลาดจนเกือบพัง
 author: drsarutobi
 categories: [Business, Entrepreneurship]
-image: assets/images/sww/sww-8_cover.svg
-featured: true
+image: assets/images/sww/sww-8.svg
+featured: false
 hidden: false
 toc: false
 
 [comment]: <> (for rss feed.xml)
-itunes_image: "player/img/startWithWhy8.jpg"
+itunes_image: "player/img/sww-8.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
-audio_location: "player/web/audio/startWithWhyEP8.mp3"
+audio_location: "player/web/audio/sww-8.mp3"
 audio_duration: "12:56"
 audio_length: 7814301
-video_location: "player/web/audio/startWithWhyEP8.mp4"
+video_location: "player/web/audio/sww-8.mp4"
 video_duration: "12:56"
 video_length: 88921553
 

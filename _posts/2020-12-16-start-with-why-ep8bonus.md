@@ -3,18 +3,18 @@ layout: post
 title: 2 บททดสอบวางแผนผู้สืบทอด
 author: drsarutobi
 categories: [Business, Entrepreneurship]
-image: assets/images/sww/sww-8bonus_cover.svg
-featured: true
+image: assets/images/sww/sww-8bonus.svg
+featured: false
 hidden: false
 
 [comment]: <> (for rss feed.xml)
-itunes_image: "player/img/startWithWhy8bonus.jpg"
+itunes_image: "player/img/sww-8bonus.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
-audio_location: "player/web/audio/startWithWhyEP8bonus.mp3"
+audio_location: "player/web/audio/sww-8bonus.mp3"
 audio_duration: "3:36"
 audio_length: 2258685
-video_location: "player/web/audio/startWithWhyEP8bonus.mp4"
+video_location: "player/web/audio/sww-8bonus.mp4"
 video_duration: "3:37"
 video_length: 26375065
 

@@ -3,7 +3,7 @@ layout: post
 title: ตั้งคำถามเพียง 1 ข้อก็พลิกจากตามขึ้นมานำ
 author: drsarutobi
 categories: [Business, Entrepreneurship]
-image: "assets/images/sww/sww-one_cover.svg"
+image: "assets/images/sww/sww-one.svg"
 featured: true
 hidden: false
 toc: true
@@ -12,10 +12,10 @@ toc: true
 itunes_image: "player/img/startWithWhy.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
-audio_location: "player/web/audio/SWW_ONE.mp3"
+audio_location: "player/web/audio/sww_one.mp3"
 audio_duration: "17:55"
 audio_length: 8509869
-video_location: "player/web/audio/SWW_ONE.mp4"
+video_location: "player/web/audio/sww_one.mp4"
 video_duration: "17:55"
 video_length: 78765483
 
