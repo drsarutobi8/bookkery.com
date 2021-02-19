@@ -1,7 +1,7 @@
 # Site
 name: "bookkery.com"
 title: "bookkery.com"
-description: "We serve books that inspire you."
+description: "เราเสริฟหนังสือที่สร้างแรงบันดาลใจให้คุณ"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
