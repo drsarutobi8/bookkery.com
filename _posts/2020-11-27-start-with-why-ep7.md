@@ -2,7 +2,7 @@
 layout: post
 title: สาวกพันธ์ุแท้ เค้าสร้างกันยังไง
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: "assets/images/sww/sww-7.svg"
 featured: false
 hidden: false

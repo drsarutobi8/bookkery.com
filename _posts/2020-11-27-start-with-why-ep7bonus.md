@@ -2,7 +2,7 @@
 layout: post
 title: คำแนะนำดีๆเต็มไปหมด ทำอันไหนดี
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: "assets/images/sww/sww-7bonus.svg"
 featured: false
 hidden: false

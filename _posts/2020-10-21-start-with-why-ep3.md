@@ -2,7 +2,7 @@
 layout: post
 title: ความลับของสมอง ทำไมเราต้องดมว่าซักผ้าสะอาดมั้ย 
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: assets/images/sww/sww-3.svg
 featured: false
 hidden: false
@@ -13,11 +13,11 @@ itunes_image: "player/img/sww-3.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
 audio_location: "player/web/audio/sww-3.mp3"
-audio_duration: "14:30"
-audio_length: 6023589 
+audio_duration: "14:42"
+audio_length: 6002493 
 video_location: "player/web/audio/sww-3.mp4"
-video_duration: "14:30"
-video_length: 40140485
+video_duration: "14:42"
+video_length: 39770853
 
 [comment]: <> (for this page)
 credits:
@@ -33,7 +33,7 @@ credits:
 
 productID: sww
 
-------
+---
 แปลกใจมั้ย ทำไมเราชอบดมผ้าเวลาซักเสร็จใหม่ๆ มาไขความลับการทำงานของสมองว่าสอดคล้องกับ The Golden Circle อย่างไร 
 
 **ฟังหนังสือเสียง**

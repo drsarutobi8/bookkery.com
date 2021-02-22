@@ -1,48 +1,64 @@
 ---
 layout: post
-title: Start With Why EP2 The Golden Circle
+title: ปรากฏการณ์ความสำเร็จ iPhone
 author: drsarutobi
-categories: [Business, Entrepreneurship]
-image: assets/images/sww/cover.jpg
+categories: [Business]
+image: assets/images/sww/sww-2.svg
 featured: false
-hidden: true
+hidden: false
+toc: false
+
+[comment]: <> (for rss feed.xml)
+itunes_image: "player/img/sww-2.jpg"
+itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
+itunes_explicit: "no"
+audio_location: "player/web/audio/sww-2.mp3"
+audio_duration: "14:42"
+audio_length: 4184949 
+video_location: "player/web/audio/sww-2.mp4"
+video_duration: "14:42"
+video_length: 33414069
+
+[comment]: <> (for this page)
+credits:
+- "Presentation template by https://www.slidescarnival.com"
+- "Icons จาก  flaticon by by FreePik"
+- "Pictures from Apple Inc."
+- "Pictures from Pexels by Andrea Piacquadio, Cleyder Duque, Gustavo Fring, Oleg Magni"
+
+productID: sww
+
 ---
+มาเรียนรู้เทคนิค ที่อยู่เบื้องหลังความสำเร็จของ iPhone อะไรที่ Apple ทำให้เปลี่ยนจากลูกค้าธรรมดาๆมาเป็นสาวก
+
+**ฟังหนังสือเสียง**
+<audio controls>
+  <source src="/{{page.audio_location}}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+**ที่มา**
+
+**Start With Why** ![Start With Why](/assets/images/sww/book_eng.jpg)
+
+*แต่งโดย Simon Sinek*
 Start With Why แต่งโดย Simon Sinek
 บทย่อ Part 2 An Alternative Perspective, Chapter 3 - The Golden Circle
-มาเรียนรู้เทคนิค The Golden Circle วงกลม 3 ชั้น What, How, Why ซึ่งแบรนด์ชั้นนำอย่าง Apple, Harley Davidson ใช้ในการสื่อสารและสร้างแรงบันดาลใจ จนเปลี่ยนจากลูกค้ามาเป็นสาวก
-<a href="https://amzn.to/3m5VYEQ">ซื้อหนังสือ</a>
+---
+**อยากสนับสนุนเรา ซื้อหนังสือกับเรา**
+{% for productitem in site.productitems | where:"productID", page.productID %}
+[![{{productitem.title}}](/{{productitem.image_path}})]({{productitem.link}}){% endfor %}
 
+---
+**ขอขอบคุณ**
+{% for credit in page.credits %}
+- {{credit | xml_escape}}
+{% endfor %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BEFHz7iZ9Ck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="true"></iframe>
-
-Podcast:
-<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/583294/78825406" width="560" height="315" frameborder="0" scrolling="no"></iframe>
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://bookkery.us2.list-manage.com/subscribe/post?u=1554382b42fb23935404d7a17&amp;id=652ef195e7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <label for="mce-EMAIL">สมัครเป็นนักอ่านกับเราเพื่อดาวน์โหลดสไลด์</label>
-    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1554382b42fb23935404d7a17_652ef195e7" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-สนใจซื้อหนังสือ <a href="https://amzn.to/3m5VYEQ">Start With Why</a>
-
-Facebook <a href="https://www.facebook.com/bookkery1">Bookkery1</a>
-
-Special Thanks for Awesome Resources
-- Presentation template by SlidesCarnival
-- Icon designed by Freepik from Flaticon
-- Pictures from Pexels by Andrea Piacquadio, Cleyder Duque, Gustavo Fring, Oleg Magni
+---
+**ติดตามเรา**
+- [Blog]({{site.url}})
+- [Facebook](https://www.facebook.com/{{site.facebook}})
+- [Instragram](https://www.instagram.com/{{site.instragram}})
+- [Youtube](https://www.youtube.com/channel/{{site.youtube}})
+- [Apple Podcast](https://podcasts.apple.com/th/podcast/{{site.apple_podcast}})

@@ -2,7 +2,7 @@
 layout: post
 title: เมื่อยักษ์ใหญ่พลาดจนเกือบพัง
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: assets/images/sww/sww-8.svg
 featured: false
 hidden: false

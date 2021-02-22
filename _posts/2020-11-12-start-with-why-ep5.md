@@ -2,7 +2,7 @@
 layout: post
 title: พลิกจากบ๊วยมาเป็นที่หนึ่ง เพราะสร้างความไว้ใจ
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: assets/images/sww/sww-5.svg
 featured: false
 hidden: false

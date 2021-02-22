@@ -2,7 +2,7 @@
 layout: post
 title: สายการบินในดวงใจ Southwest Airlines
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: assets/images/sww/sww-4.svg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: 2 บททดสอบวางแผนผู้สืบทอด
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: assets/images/sww/sww-8bonus.svg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: คิดจะเจาะตลาด ห้ามพลาดเรื่องนี้
 author: drsarutobi
-categories: [Business, Entrepreneurship]
+categories: [Business]
 image: "assets/images/sww/sww-6.svg"
 featured: false
 hidden: false
