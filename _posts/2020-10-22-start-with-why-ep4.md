@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Southwest Airlines สายการบินที่มีแต่คนรัก และไม่เคยขาดทุน
+title: สายการบินในดวงใจ Southwest Airlines
 author: drsarutobi
 categories: [Business, Entrepreneurship]
 image: assets/images/sww/sww-4.svg

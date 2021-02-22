@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ความลับของสมอง ทำไมเราต้องดมว่าผ้าสะอาดมั้ย 
+title: ความลับของสมอง ทำไมเราต้องดมว่าซักผ้าสะอาดมั้ย 
 author: drsarutobi
 categories: [Business, Entrepreneurship]
 image: assets/images/sww/sww-3.svg
@@ -30,9 +30,11 @@ credits:
 - "Pictures from Southwest Airlines"
 - "Pictures from Finetooth, Like tears in rain, U.S CIA"
 - "Pictures from Andrea Piacquadio, Cleyder Duque, Gustavo Fring, Jopwell, Julia M Cameron, Julian Paolo Dayag, Polina Tankilevitch, Oleg Magni"
+
 productID: sww
+
 ------
-มาเรียนรู้ความลับภายใต้ The Golden Circle ว่าทำงานสอดคล้องกับการทำงานของสมองอย่างไร ซึ่งส่งผลการสื่อสารหากเราสื่อสารได้ถูกวิธี จะช่วยให้ลูกค้าตัดสินใจซื้อสินค้าเราได้อย่างมั่นใจมากยิ่งขึ้น และไม่นำสินค้าเราไปเปรียบเทียบกับสินค้าคู่แข่ง
+แปลกใจมั้ย ทำไมเราชอบดมผ้าเวลาซักเสร็จใหม่ๆ มาไขความลับการทำงานของสมองว่าสอดคล้องกับ The Golden Circle อย่างไร 
 
 **ฟังหนังสือเสียง**
 <audio controls>
