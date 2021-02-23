@@ -28,10 +28,17 @@ productID: sww
 ---
 ถ้าวันนี้คุณอยากประสบความสำเร็จเหมือน Apple, รถมอเตอร์ไซค์ Harley Davidson, สายการบิน Southwest Airlines แบรนด์ชั้นนำเหล่านี้ ทำอะไรออกมาก็เป็นที่ชื่นชอบ และดูจะประสบความสำเร็จไปซะหมด แต่ม้นไม่ใช่เรื่องบังเอิญ เราเองก็สามารถเรียนรู้และทำแบบเค้าได้ มันเริ่มต้นด้วยการตั้งคำถามที่ใช่ แล้วค่อยค้นหาคำตอบ
 
+**ฟังหนังสือเสียง**
 <audio controls>
   <source src="/{{page.audio_location}}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+
+**ฟังหนังสือเสียงและภาพ**
+<video width="300" controls>
+  <source src="/{{page.video_location}}" type="video/mp4">
+Your browser does not support the audio element.
+</video>
 
 ### แนะนำหนังสือ
 ![Start With Why by Simon Sinek](/assets/images/sww/sww-p0.svg)

@@ -45,10 +45,16 @@ productID: sww
 คุณจะป้องกันปัญหาแบบนี้ได้อย่างไร 
 
 **ฟังหนังสือเสียง**
-<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/th/podcast/%E0%B8%AB%E0%B8%99-%E0%B8%87%E0%B8%AA-%E0%B8%AD%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B8%87-start-why-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97-8-%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%A3-%E0%B8%97-%E0%B8%A2-%E0%B8%81%E0%B8%A9-%E0%B9%83%E0%B8%AB%E0%B8%8D-%E0%B8%84-%E0%B8%B2%E0%B8%9B%E0%B8%A5/id1537281629?i=1000502550167"></iframe>
+<audio controls>
+  <source src="/{{page.audio_location}}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 **ฟังหนังสือเสียงและภาพ**
-<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/th/podcast/%E0%B8%AB%E0%B8%99-%E0%B8%87%E0%B8%AA-%E0%B8%AD%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E-start-why-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97-8-%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%A3-%E0%B8%97-%E0%B8%A2-%E0%B8%81%E0%B8%A9-%E0%B9%83%E0%B8%AB%E0%B8%8D/id1537281629?i=1000503016216"></iframe>
+<video width="300" controls>
+  <source src="/{{page.video_location}}" type="video/mp4">
+Your browser does not support the audio element.
+</video>
 
 ทุกๆปี ที่ MIT จะมีการจัดสัมมนาชื่อ The Gathering of Titans 
 เป็นงานสัมมนาที่เชิญมหาเศรษฐีระดับชั้นนำ 40-50 ท่าน มาร่วมสัมมนาแบบเข้มข้น

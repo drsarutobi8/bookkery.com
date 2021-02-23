@@ -40,6 +40,11 @@ productID: sww
 Your browser does not support the audio element.
 </audio>
 
+**ฟังหนังสือเสียงและภาพ**
+<video width="300" controls>
+  <source src="/{{page.video_location}}" type="video/mp4">
+Your browser does not support the audio element.
+</video>
 
 ---
 **อยากสนับสนุนเรา ซื้อหนังสือกับเรา**

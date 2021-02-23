@@ -39,6 +39,12 @@ Tivo เป็นเครื่องอัดวีดีโอดิจิต
 Your browser does not support the audio element.
 </audio>
 
+**ฟังหนังสือเสียงและภาพ**
+<video width="300" controls>
+  <source src="/{{page.video_location}}" type="video/mp4">
+Your browser does not support the audio element.
+</video>
+
 และวันนี้ผมจะสรุปในตอนที่ 3 Leaders Need Following ผู้นำต้องการติดตาม
 ในบทที่ 7 How a Tipping Point Tips ทำอย่างไรให้สินค้าฮิตติดตลาด
 
