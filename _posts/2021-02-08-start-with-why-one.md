@@ -12,10 +12,10 @@ toc: true
 itunes_image: "player/img/startWithWhy.jpg"
 itunes_keywords: "Start With Why, Business, Entrepreneur, Leader"
 itunes_explicit: "no"
-audio_location: "player/web/audio/sww_one.mp3"
+audio_location: "player/web/audio/sww-one.mp3"
 audio_duration: "17:55"
 audio_length: 8509869
-video_location: "player/web/audio/sww_one.mp4"
+video_location: "player/web/audio/sww-one.mp4"
 video_duration: "17:55"
 video_length: 78765483
 
@@ -26,7 +26,7 @@ credits:
 - "โลโก้จาก Apple Inc, Harley Davidson, Southwest Airlines"
 productID: sww
 ---
-ถ้าวันนี้คุณอยากประสบความสำเร็จเหมือน Apple, รถมอเตอร์ไซค์ Harley Davidson, สายการบิน Southwest Airlines แบรนด์ชั้นนำเหล่านี้ ทำอะไรออกมาก็เป็นที่ชื่นชอบ และดูจะประสบความสำเร็จไปซะหมด แต่ม้นไม่ใช่เรื่องบังเอิญ เราเองก็สามารถเรียนรู้และทำแบบเค้าได้ มันเริ่มต้นด้วยการตั้งคำถามที่ใช่ แล้วค่อยค้นหาคำตอบ
+Apple, Harley Davidson, Southwest Airlines แบรนด์ชั้นนำเหล่านี้ ทำอะไรออกมาก็เป็นที่ชื่นชอบ และดูจะประสบความสำเร็จไปซะหมด แต่ม้นไม่ใช่เรื่องบังเอิญ เราเองก็สามารถเรียนรู้และทำแบบเค้าได้ มันเริ่มต้นด้วยการตั้งคำถามที่ใช่ แล้วค่อยค้นหาคำตอบ
 
 **ฟังหนังสือเสียง**
 <audio controls>
