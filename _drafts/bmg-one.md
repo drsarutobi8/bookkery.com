@@ -42,7 +42,7 @@ toc: true
 <td>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Alexander_Osterwalder%2C_October_2011_%28cropped%29.jpg" alt="Alexander Osterwalder" style="width:400px;" />
 </td>
-<td> <b>Alexander Osterwalder</b> - <i>นักเขียน นักพูด ที่ปรึกษา และเจ้าของธุรกิจชาวสวิส ได้จบการศึกษาระดับ PhD ภายใต้ศาสตราจารย์ Yves Pigneur</i>
+<td> <b>Alexander Osterwalder</b> - <i>นักเขียน นักพูด ที่ปรึกษา และเจ้าของธุรกิจชาวสวิส ได้จบการศึกษาระดับปริญญาเอกภายใต้ศาสตราจารย์ Yves Pigneur</i>
 </td>
 </tr>
 
